@@ -1,0 +1,912 @@
+T02D1970:110b-0	@110b # // rgya gar skad du /	rgya_11 gar_16 skad_20 du_25 
+T02D1970:110b-1	shr'i badzra bha ra ba tantra t'i k'a /	shr_0 badzra_6 bha_13 ra_17 ba_20 tantra_23 t_30 k_34 
+T02D1970:110b-2	bod skad du /	'bod_0 skad_4 du_9 
+T02D1970:110b-3	dpal rdo rje 'jigs byed kyi rgyud kyi dka' 'grel /	dpal_0 rdo_5 rje_9 'jigs_13 byed_19 kyi_24 brgyud_28 kyi_34 dka'_38 'grel_43 
+T02D1970:110b-4	sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo //	sangs_0 rgya_6 dang_12 byang_17 chub_23 sems_28 dpa'_33 thams_38 cad_44 la_48 phyag_51 'tshal_57 lo_64 
+T02D1970:110b-5	bla ma'i zhabs la dad pas btud nas ni //	bla_0 ma_4 zhabs_9 la_15 dad_18 ba_22 'dud_26 nas_31 ni_35 
+T02D1970:110b-6	dpal ldan gshin rje gshed kyi rtog pa 'dir //	dpal_0 ldan_5 gshin_10 rje_16 gshed_20 kyi_26 rtogs_30 ba_35 'dir_38 
+T02D1970:110b-7	man ngag gang yod bdag nyid dran phyir ni //	man_0 ngag_4 gang_9 yod_14 bdag_18 nyid_23 dran_28 phyir_33 ni_39 
+T02D1970:110b-8	dka' ba'i gnas tsam bdag gis bri bar bya //	dka'_0 ba_5 gnas_10 tsam_15 bdag_20 gis_25 'bri_29 ba_33 byed_37 
+T02D1970:110b-9	bla ma mchog rnams legs par yun rings dus su dka' bas mnyes byed mi nus pa //	bla_0 ma_4 mchog_7 rnams_13 legs_19 ba_24 yun_28 'dring_32 dus_38 su_42 dka'_45 ba_50 mnyes_54 byed_60 mi_65 nus_68 ba_72 
+T02D1970:110b-10	dbul pos gter chen ngo shes brko ba'i bya bas ngal te yongs su dor ba bzhin //	'bul_0 pos_5 gter_9 chen_14 ngo_19 shes_23 rko_28 ba_33 byed_38 ba_42 ngal_46 te_51 yongs_54 su_60 'dor_63 ba_67 bzhin_70 
+T02D1970:110b-11	de ltar dbul po 'dra ba'i blo ngan rang la 'tshe ba de la lung gi tshogs //	de_0 ltar_3 'bul_8 po_13 'dra_16 ba_21 blo_26 ngan_30 rang_35 la_40 'tshe_43 ba_49 de_52 la_55 lung_58 gi_63 tshogs_66 
+T02D1970:110b-12	legs bsrubs las byung mar gyi snying khu lta bu slar yang blud mi bya //	legs_0 bsrubs_5 las_12 'byung_16 mar_22 gyi_26 snying_30 khu_37 lta_41 bu_45 slar_48 yang_53 blud_58 mi_63 byed_66 
+T02D1970:110b-13	ji ltar zhag gi rim pas zla ba'i cha shas 'phel zhing bco lngar mthar thug pa //	ji_0 ltar_3 zhag_8 gi_13 rim_16 ba_20 zla_24 ba_28 cha_33 shas_37 'phel_42 zhing_48 'chos_54 lngar_58 mthar_64 thug_70 ba_75 
+T02D1970:110b-14	bcu drug nas brtsams 'dri zhing 'phel med mkhas pa'i 'gro ba'i shes pa mngon sum ltar //	'chu_0 drug_4 nas_9 brtsams_13 'bri_21 zhing_26 'phel_32 med_38 mkhas_42 ba_48 'gro_53 ba_58 shes_63 ba_68 mngon_71 sum_77 ltar_81 
+T02D1970:110b-15	yun rings bsnyen bkur dus su de yi snod ni rim gyis bla mas sbyar byas te //	yun_0 'dring_4 snyen_10 bkur_17 dus_22 su_26 de_29 yi_32 snod_35 ni_40 rim_43 gyis_47 bla_52 mas_56 sbyor_60 byed_66 te_71 
+T02D1970:110b-16	dang brtan bsnyen bkur byas la bla ma dus su byin gyis ma brlabs de nyams 'gyur //	dang_0 brtan_5 snyen_11 bkur_18 byed_23 la_28 bla_31 ma_35 dus_38 su_42 byin_45 gyis_50 ma_55 brlabs_58 de_65 nyams_68 'gyur_74 
+T02D1970:110b-17	de phyir slob ma blo gros dman pa gus par gnas la bdag gis yid dga' bas /	de_0 phyir_3 slob_9 ma_14 blo_17 gros_21 dman_26 ba_31 gus_34 ba_38 gnas_42 la_47 bdag_50 gis_55 yid_59 dga'_63 ba_68 
+T02D1970:110b-18	rtog pa 'di las cung zad snying po sbyin phyir rab tu bsdus pa'i gzhung 'di dgod //	rtogs_0 ba_5 'di_8 las_12 cung_16 zad_21 snying_25 po_32 sbyin_35 phyir_41 rab_47 tu_51 sdud_54 ba_60 gzhung_65 'di_72 'god_76 
+T02D1970:110b-19	de nas zhes bya ba la sogs pa'i gzhung le'u bdun du byas pa'i rtog pa 'di ni /	de_0 nas_3 zhes_7 byed_12 ba_16 la_19 sogs_22 ba_27 gzhung_32 le_39 bdun_44 du_49 byed_52 ba_57 rtogs_62 ba_67 'di_70 ni_74 
+T02D1970:110b-20	le'u'i grangs kyi go rims dang //	le'i_0 grangs_7 kyi_14 go_18 rims_21 dang_26 
+T02D1970:110b-21	bsdus pa'i don dang /	sdud_0 ba_6 don_11 dang_15 
+T02D1970:110b-22	man ngag gi gnas bshad pa ste /	man_0 ngag_4 gi_9 gnas_12 'chad_17 ba_23 ste_26 
+T02D1970:110b-23	yan lag gsum gyis 'chad do //	yan_0 lag_4 gsum_8 gyis_13 'chad_18 do_24 
+T02D1970:110b-24	de yang 'di ltar bsnyen pa dang //	de_0 yang_3 'di_8 ltar_12 snyen_17 ba_24 dang_27 
+T02D1970:110b-25	sgrub pa dang /	sgrub_0 ba_6 dang_9 
+T02D1970:110b-26	las rab 'byam dag ni dbang bskur ba'i sngags pas bya ba yin la /	las_0 rab_4 'byam_8 'dag_14 ni_18 dbang_21 skur_27 ba_33 sngags_38 ba_45 byed_49 ba_53 yin_56 la_60 
+T02D1970:110b-27	las dang po pa'i sngags pas ni phal cher rdul	las_0 dang_4 po_9 ba_12 sngags_17 ba_24 ni_28 phal_31 cher_36 rdul_41 
+T02D1970:110b-28	tshon gyi dkyil 'khor du dbang bskur bar rigs pas	tshon_0 gyi_6 dkyil_10 'khor_16 du_22 dbang_25 skur_31 ba_37 rigs_41 ba_46 
+T02D1970:110b-29	/ dang po tshig zur gyis dbang bstan pa dkyil 'khor gyi le'u gsungs so //	dang_2 po_7 tshig_10 zur_16 gyis_20 dbang_25 ston_31 ba_37 dkyil_40 'khor_46 gyi_52 le_56 gsungs_61 so_68 
+T02D1970:110b-30	dbang bskur ba'i sngags pas ni bsgoms pa'am bzlas pas	dbang_0 skur_6 ba_12 sngags_17 ba_24 ni_28 sgom_31 ba_38 bzlas_44 ba_50 
+T02D1970:110b-31	bsnyen pa byed pas na de nas ni le'u bzhi	snyen_0 ba_7 byed_10 ba_15 na_19 de_22 nas_25 ni_29 le_32 bzhi_37 
+T02D1970:110b-32	pa gsungs pa drang ngo //	ba_0 gsungs_3 ba_10 'dren_13 ngo_19 
+T02D1970:111a-0	@111a * // bsgom pa yang ri mo'i dmigs pa la brten par	bsgom_11 ba_17 yang_20 ri_25 mo_28 dmigs_33 ba_39 la_42 rten_45 ba_51 
+T02D1970:111a-1	rigs pas na de nas le'u lnga pa gsungs te	rigs_0 ba_5 na_9 de_12 nas_15 le_19 lnga_24 ba_29 gsungs_32 te_39 
+T02D1970:111a-2	/ de nas bcom ldan 'das rnam par snang mdzad	de_2 nas_5 'joms_9 ldan_14 'da'_19 rnam_24 ba_29 snang_33 mdzad_39 
+T02D1970:111a-3	chen po rdo rje de bzhin gshegs pa ye shes	chen_0 po_5 rdo_8 rje_12 de_16 bzhin_19 gshegs_25 ba_32 ye_35 shes_38 
+T02D1970:111a-4	chen po'i stobs kyis rnam par 'phrul ba'i rdo rje	chen_0 po_5 stobs_10 kyis_16 rnam_21 ba_26 'phrul_30 ba_37 rdo_42 rje_46 
+T02D1970:111a-5	zhes bya ba'i ting nge 'dzin la snyoms par zhugs	zhes_0 byed_5 ba_9 ting_14 nge_19 'dzin_23 la_29 snyom_32 ba_39 'jug_43 
+T02D1970:111a-6	nas phyag na rdo rje la 'di skad ces bka'	nas_0 phyag_4 na_10 rdo_13 rje_17 la_21 'di_24 skad_28 ces_33 bka'_37 
+T02D1970:111a-7	/ stsal to // phyag na rdo rje ras sam	stsal_2 to_8 phyag_14 na_20 rdo_23 rje_27 ras_31 sam_35 
+T02D1970:111a-8	rtsig pa la sogs pa la gzugs brnyan bsgrubs pa	rtsig_0 ba_6 la_9 sogs_12 ba_17 la_20 gzugs_23 rnyan_29 sgrub_36 ba_44 
+T02D1970:111a-9	gang gis gsang sngags 'chang rnams kyi ye shes rdzogs	gang_0 gis_5 gsang_9 sngags_15 'chang_22 rnams_29 kyi_35 ye_39 shes_42 rdzogs_47 
+T02D1970:111a-10	/ stsal to // par 'gyur zhing / ye shes	stsal_2 to_8 ba_14 'gyur_18 zhing_24 ye_32 shes_35 
+T02D1970:111a-11	rdzogs pas sangs rgyas nyid bde blag tu thob par	rdzogs_0 ba_7 sangs_11 rgya_17 nyid_23 bde_28 blag_32 tu_37 'thob_40 ba_45 
+T02D1970:111a-12	/ stsal to // par 'gyur zhing / 'gyur na	stsal_2 to_8 ba_14 'gyur_18 zhing_24 'gyur_32 na_38 
+T02D1970:111a-13	/ dngos grub gzhan lta smos kyang ci dgos pa'i	dngos_2 'grub_8 gzhan_13 lta_19 smos_23 kyang_28 ci_34 dgos_37 ba_42 
+T02D1970:111a-14	gsang sngags kyi tshogs rnams kyi ting nge 'dzin gsang	gsang_0 sngags_6 kyi_13 tshogs_17 rnams_24 kyi_30 ting_34 nge_39 'dzin_43 gsang_49 
+T02D1970:111a-15	chen bshad bar bya yis nyon cig ces gsungs pa	chen_0 'chad_5 ba_11 byed_15 yis_19 nyon_23 cig_28 ces_32 gsungs_36 ba_43 
+T02D1970:111a-16	/ stsal to // par 'gyur zhing / 'gyur na	stsal_2 to_8 ba_14 'gyur_18 zhing_24 'gyur_32 na_38 
+T02D1970:111a-17	/ lta bu'o // de ltar ri mo la brten	lta_2 bu_6 de_14 ltar_17 ri_22 mo_25 la_28 rten_31 
+T02D1970:111a-18	nas dmigs pa thob pa de ni ting nge 'dzin	nas_0 dmigs_4 ba_10 'thob_13 ba_18 de_21 ni_24 ting_27 nge_32 'dzin_36 
+T02D1970:111a-19	gyi las rnams byed nus par 'gyur bas //	gyi_0 las_4 rnams_8 byed_14 nus_19 ba_23 'gyur_27 ba_33 
+T02D1970:111a-20	bsam gtan la brten pa'i las kyi sbyor ba'i le'u bdun pa gsungs so //	bsam_0 gtan_5 la_10 rten_13 ba_19 las_24 kyi_28 sbyor_32 ba_38 le_43 bdun_48 ba_53 gsungs_56 so_63 
+T02D1970:111a-21	gal te bzlas brjod kyi bsnyen pa byas kyang /	gal_0 te_4 bzlas_7 rjod_13 kyi_19 snyen_23 ba_30 byed_33 kyang_38 
+T02D1970:111a-22	ting nge 'dzin ma thob pa srid pas de dag	ting_0 nge_5 'dzin_9 ma_15 'thob_18 ba_23 srid_26 ba_31 de_35 'dag_38 
+T02D1970:111a-23	gi ched du ni bzlas brjod las byung ba'i sbyin	gi_0 ched_3 du_8 ni_11 bzlas_14 rjod_20 las_26 'byung_30 ba_36 sbyin_41 
+T02D1970:111a-24	sreg gi bya ba bstan to //	sreg_0 gi_5 byed_8 ba_12 ston_15 to_21 
+T02D1970:111a-25	gal te sbyin sreg gi las la yid mi dga' ba'am //	gal_0 te_4 sbyin_7 sreg_13 gi_18 las_21 la_25 yid_28 mi_32 dga'_35 ba_40 
+T02D1970:111a-26	tshogs pa mi rnyed pa dag gi phyir le'u gnyis pa 'khrul 'khor gyi bya ba bstan to //	tshogs_0 ba_7 mi_10 rnyed_13 ba_19 'dag_22 gi_26 phyir_29 le_35 gnyis_40 ba_46 'khrul_49 'khor_56 gyi_62 byed_66 ba_70 ston_73 to_79 
+T02D1970:111a-27	gal te bsten pa byas pa'i sngags pas las phran tshegs de dag la mi mos kyi /	gal_0 te_4 sten_7 ba_13 byed_16 ba_21 sngags_26 ba_33 las_37 phran_41 tshegs_47 de_54 'dag_57 la_61 mi_64 mos_67 kyi_71 
+T02D1970:111a-28	mchog grub par 'dod pa de dag la ni yang le'u dang po'i mchog bsgrub pa bstan to //	mchog_0 'grub_6 ba_11 'dod_15 ba_20 de_23 'dag_26 la_30 ni_33 yang_36 le_41 dang_46 po_51 mchog_56 sgrub_62 ba_69 ston_72 to_78 
+T02D1970:111a-29	de ltar bsnyen pa dang /	de_0 ltar_3 snyen_8 ba_15 dang_18 
+T02D1970:111a-30	sgrub pa dang /	sgrub_0 ba_6 dang_9 
+T02D1970:111a-31	las rab 'byam thams cad du dgos pa ni sngags yin la /	las_0 rab_4 'byam_8 thams_14 cad_20 du_24 dgos_27 ba_32 ni_35 sngags_38 yin_45 la_49 
+T02D1970:111a-32	sngags de yang /	sngags_0 de_7 yang_10 
+T02D1970:111a-33	ma dag pas ni dngos grub mi byed de //	ma_0 'dag_3 ba_7 ni_11 dngos_14 'grub_20 mi_25 byed_28 de_33 
+T02D1970:111a-34	cho ga nyams shing yi ge gug skyed nyams //	cho_0 ga_4 nyams_7 shing_13 yi_19 ge_22 gug_25 skyed_29 nyams_35 
+T02D1970:111a-35	mchod pa med cing mi gtsang bzlas brjod byas //	mchod_0 ba_6 med_9 cing_13 mi_18 gtsang_21 bzlas_28 rjod_34 byed_40 
+T02D1970:111a-36	gug skyed yi ge lhag par gyur pa yi //	gug_0 skyed_4 yi_10 ge_13 lhag_16 ba_21 gyur_25 ba_30 yi_33 
+T02D1970:111a-37	gsang sngags dngos grub rgya chen mi ster ro //	gsang_0 sngags_6 dngos_13 'grub_19 rgya_24 chen_29 mi_34 ster_37 ro_42 
+T02D1970:111a-38	zhes gsungs te //	zhes_0 gsungs_5 te_12 
+T02D1970:111a-39	de bas na sngags dag par byed pa'i yi ge btu ba'i le'u gsum pa gsungs te /	de_0 ba_3 na_7 sngags_10 'dag_17 ba_21 byed_25 ba_30 yi_35 ge_38 'thu_41 ba_45 le_50 gsum_55 ba_60 gsungs_63 te_70 
+T02D1970:111a-40	'di ni le'u grangs bdun gyi go rim sa dang mtshams sbyar ba man ngag gis gsungs pa'o //	'di_0 ni_4 le_7 grangs_12 bdun_19 gyi_24 go_28 rim_31 sa_35 dang_38 mtshams_43 sbyor_51 ba_57 man_60 ngag_64 gis_69 gsungs_73 ba_80 
+T02D1970:111a-41	gzhan yang sgrub pa po mchog gi phyir ni dngos	gzhan_0 yang_6 sgrub_11 ba_17 po_20 mchog_23 gi_29 phyir_32 ni_38 dngos_41 
+T02D1970:111a-42	grub dam pa sgrub pa'i le'u dang po gsungs so	'grub_0 dam_5 ba_9 sgrub_12 ba_18 le_23 dang_28 po_33 gsungs_36 so_43 
+T02D1970:111b-0	// des @111b dngos grub mchog grub na las phra mo la 'jug ste /	des_3 dngos_13 'grub_19 mchog_24 'grub_30 na_35 las_38 phra_42 mo_47 la_50 'jug_53 ste_58 
+T02D1970:111b-1	'di nyid las gal te sngags pas grub par ma	'di_0 nyid_4 las_9 gal_13 te_17 sngags_20 ba_27 'grub_31 ba_36 ma_40 
+T02D1970:111b-2	gyur na yang las phra mo thams cad nges par	gyur_0 na_5 yang_8 las_13 phra_17 mo_22 thams_25 cad_31 nges_35 ba_40 
+T02D1970:111b-3	'grub po zhes gsungs te /	'grub_0 po_6 zhes_9 gsungs_14 te_21 
+T02D1970:111b-4	de'i phyir le'u gnyis pa gsungs so //	de_0 phyir_5 le_11 gnyis_16 ba_22 gsungs_25 so_32 
+T02D1970:111b-5	le'u gnyis pa'i las ngag kyang gsang sngags dag pa	le_0 gnyis_5 ba_11 las_16 ngag_20 kyang_25 gsang_31 sngags_37 'dag_44 ba_48 
+T02D1970:111b-6	la brten pa yin pa bas na gsang sngags dag	la_0 rten_3 ba_9 yin_12 ba_16 ba_19 na_23 gsang_26 sngags_32 'dag_39 
+T02D1970:111b-7	pa'i le'u gsum pa gsungs so //	ba_0 le_5 gsum_10 ba_15 gsungs_18 so_25 
+T02D1970:111b-8	dag pa'i sngags de yang bsgom pa dang ldan pas	'dag_0 ba_4 sngags_9 de_16 yang_19 bsgom_24 ba_30 dang_33 ldan_38 ba_43 
+T02D1970:111b-9	bzlas par bya ba yin pas na le'u bzhi pa	bzlas_0 ba_6 byed_10 ba_14 yin_17 ba_21 na_25 le_28 bzhi_33 ba_38 
+T02D1970:111b-10	bsgom pa gsungs so //	bsgom_0 ba_6 gsungs_9 so_16 
+T02D1970:111b-11	bsgom pa yang bris sku la dmigs par regs pas na /	bsgom_0 ba_6 yang_9 'bri_14 sku_19 la_23 dmigs_26 ba_32 'dreg_36 ba_41 na_45 
+T02D1970:111b-12	le'u lnga pa bris sku'i cho ga gsungs so //	le_0 lnga_5 ba_10 'bri_13 sku_18 cho_24 ga_28 gsungs_31 so_38 
+T02D1970:111b-13	bris sku las dmigs pa thob pa de ni phyi	'bri_0 sku_5 las_9 dmigs_13 ba_19 'thob_22 ba_27 de_30 ni_33 phyi_36 
+T02D1970:111b-14	dang nang gi las rab 'byam la dbang du gyur	dang_0 nang_5 gi_10 las_13 rab_17 'byam_21 la_27 dbang_30 du_36 gyur_39 
+T02D1970:111b-15	bas na / sbyin sreg dang bsam gtan gyi las kyi le'u lnga pa gsungs so //	ba_0 na_4 sbyin_9 sreg_15 dang_20 bsam_25 gtan_30 gyi_35 las_39 kyi_43 le_47 lnga_52 ba_57 gsungs_60 so_67 
+T02D1970:111b-16	de bzhin du go rims nges pa dang mtshams sbyar ba ni //	de_0 bzhin_3 du_9 go_12 rims_15 nges_20 ba_25 dang_28 mtshams_33 sbyor_41 ba_47 ni_50 
+T02D1970:111b-17	rnam pa du mar yang rang gi blo gros dri	rnam_0 ba_5 du_8 mar_11 yang_15 rang_20 gi_25 blo_28 gros_32 'dri_37 
+T02D1970:111b-18	ma med pas shes par bya yang rung zhes gsungs	ma_0 med_3 ba_7 shes_11 ba_16 byed_20 yang_24 rung_29 zhes_34 gsungs_39 
+T02D1970:111b-19	so // yan lag dang po mngon par brjod pa'o //	so_0 yan_6 lag_10 dang_14 po_19 mngon_22 ba_28 rjod_32 ba_38 
+T02D1970:111b-20	gnyis pa ni de ltar le'u bdun po de dag las le'u grangs dang pos ni /	gnyis_0 ba_6 ni_9 de_12 ltar_15 le_20 bdun_25 po_30 de_33 'dag_36 las_40 le_44 grangs_49 dang_56 pos_61 ni_65 
+T02D1970:111b-21	sdud pa po gzhung yang dag par bsdu ba'i dmigs	sdud_0 ba_5 po_8 gzhung_11 yang_18 'dag_23 ba_27 sdud_31 ba_36 dmigs_41 
+T02D1970:111b-22	pa gang yin pa che ba'i bdag nyid dang bcas	ba_0 gang_3 yin_8 ba_12 che_15 ba_19 bdag_24 nyid_29 dang_34 'cha'_39 
+T02D1970:111b-23	par bstan pa dang /	ba_0 ston_4 ba_10 dang_13 
+T02D1970:111b-24	gnas kyi tshul dang /	gnas_0 kyi_5 tshul_9 dang_15 
+T02D1970:111b-25	sngags pa'i khyad par dang /	sngags_0 ba_7 khyad_12 ba_18 dang_22 
+T02D1970:111b-26	las rab 'byam dang /	las_0 rab_4 'byam_8 dang_14 
+T02D1970:111b-27	slob dpon gyi tshul dang /	slob_0 dpon_5 gyi_10 tshul_14 dang_20 
+T02D1970:111b-28	dkyil 'khor gyi bdag nyid che ba dang /	dkyil_0 'khor_6 gyi_12 bdag_16 nyid_21 che_26 ba_30 dang_33 
+T02D1970:111b-29	mchod pa dang /	mchod_0 ba_6 dang_9 
+T02D1970:111b-30	nye bar spyad pa'i yo byad dang /	nye_0 ba_4 spyod_8 ba_14 yo_19 byad_22 dang_27 
+T02D1970:111b-31	sgrub pa po bsgrub cing mchod pa dang /	sgrub_0 ba_6 po_9 sgrub_12 cing_19 mchod_24 ba_30 dang_33 
+T02D1970:111b-32	bsgrub pa'i tshul dang /	sgrub_0 ba_7 tshul_12 dang_18 
+T02D1970:111b-33	dngos grub blang ba dang /	dngos_0 'grub_6 blang_11 ba_17 dang_20 
+T02D1970:111b-34	dngos grub chen po ma grub na yang phra mo 'grub par 'gyur ba rnams bstan pa'o //	dngos_0 'grub_6 chen_11 po_16 ma_19 'grub_22 na_27 yang_30 phra_35 mo_40 'grub_43 ba_49 'gyur_53 ba_59 rnams_62 ston_68 ba_74 
+T02D1970:111b-35	le'u gnyis pa las ni le'u'i mtshams sbyar ba dang /	le_0 gnyis_5 ba_11 las_14 ni_18 le'i_21 mtshams_28 sbyor_36 ba_42 dang_45 
+T02D1970:111b-36	gsad ba'i las rnam pa drug dang /	gsad_0 ba_5 las_10 rnam_14 ba_19 drug_22 dang_27 
+T02D1970:111b-37	bskrad pa'i las rnam pa lnga dang /	skrod_0 ba_7 las_12 rnam_16 ba_21 lnga_24 dang_29 
+T02D1970:111b-38	dbye ba'i las rnam pa bzhi dang /	'byed_0 ba_5 las_10 rnam_14 ba_19 bzhi_22 dang_27 
+T02D1970:111b-39	rims kyis gzung ba dang /	rims_0 kyis_5 gzung_10 ba_16 dang_19 
+T02D1970:111b-40	rengs par bya ba dang /	rengs_0 ba_6 byed_10 ba_14 dang_17 
+T02D1970:111b-41	mnan pa dang /	gnon_0 ba_5 dang_8 
+T02D1970:111b-42	dbang du bya ba dang /	dbang_0 du_6 byed_9 ba_13 dang_16 
+T02D1970:111b-43	dgug pa dang /	'gugs_0 ba_5 dang_8 
+T02D1970:111b-44	smyo bar bya ba dang /	smyo_0 ba_5 byed_9 ba_13 dang_16 
+T02D1970:111b-45	mu mo dbang du bya ba dang /	mu_0 mo_3 dbang_6 du_12 byed_15 ba_19 dang_22 
+T02D1970:111b-46	zhi ba'i bya ba mdor bstan pa dang /	zhi_0 ba_4 byed_9 ba_13 mdor_16 ston_21 ba_27 dang_30 
+T02D1970:111b-47	'khrul 'khor sba ba'i gnas dang /	'khrul_0 'khor_7 sbed_13 ba_17 gnas_22 dang_27 
+T02D1970:111b-48	sbyor ba dgrol ba dang /	sbyor_0 ba_6 'grol_9 ba_15 dang_18 
+T02D1970:111b-49	las de dag gi bya ba gsal bar byed pa rnams bstan pa yin no //	las_0 de_4 'dag_7 gi_11 byed_14 ba_18 gsal_21 ba_26 byed_30 ba_35 rnams_38 ston_44 ba_50 yin_53 no_57 
+T02D1970:111b-50	le'u gsum pa las ni /	le_0 gsum_5 ba_10 las_13 ni_17 
+T02D1970:112a-0	rtsa ba'i @112a * //	rtsa_0 ba_5 
+T02D1970:112a-1	sngags btu ba dang /	sngags_0 'thu_7 ba_11 dang_14 
+T02D1970:112a-2	las kyi sngags btub dang /	las_0 kyi_4 sngags_8 thub_15 dang_20 
+T02D1970:112a-3	snying po'i sngags btu ba dang /	snying_0 po_7 sngags_12 'thu_19 ba_23 dang_26 
+T02D1970:112a-4	de dag gi bzlas pa'i tshad dang /	de_0 'dag_3 gi_7 bzlas_10 ba_16 tshad_21 dang_27 
+T02D1970:112a-5	yi ge btu ba'i dam tshig rnams btu ba rnams bstan to //	yi_0 ge_3 'thu_6 ba_10 dam_15 tshig_19 rnams_25 'thu_31 ba_35 rnams_38 ston_44 to_50 
+T02D1970:112a-6	le'u bzhi pa las ni /	le_0 bzhi_5 ba_10 las_13 ni_17 
+T02D1970:112a-7	le'u mtshams sbyar ba dang /	le_0 mtshams_5 sbyor_13 ba_19 dang_22 
+T02D1970:112a-8	bcas te mngon du bya ba rnams bstan pa dang /	'cha'_0 te_5 mngon_8 du_14 byed_17 ba_21 rnams_24 ston_30 ba_36 dang_39 
+T02D1970:112a-9	gdan bsam pa dang /	gdan_0 bsam_5 ba_10 dang_13 
+T02D1970:112a-10	rgyu'i lha bskyed pa dang /	rgyu_0 lha_7 skyed_11 ba_18 dang_21 
+T02D1970:112a-11	'bras bu'i lha bskyed pa dang /	'bras_0 bu_6 lha_11 skyed_15 ba_22 dang_25 
+T02D1970:112a-12	'bras bu'i lha de'i gzugs la sogs pa'i mtshan nyid dang /	'bras_0 bu_6 lha_11 de_15 gzugs_20 la_26 sogs_29 ba_34 mtshan_39 nyid_46 dang_51 
+T02D1970:112a-13	bsnyen pa'i gnas dang /	snyen_0 ba_7 gnas_12 dang_17 
+T02D1970:112a-14	bzlas pa'i cho ga dang /	bzlas_0 ba_6 cho_11 ga_15 dang_18 
+T02D1970:112a-15	bzlas pa la sogs pa'i mthu dang /	bzlas_0 ba_6 la_9 sogs_12 ba_17 mthu_22 dang_27 
+T02D1970:112a-16	gnas dang /	gnas_0 dang_5 
+T02D1970:112a-17	kha zas dang /	kha_0 zas_4 dang_8 
+T02D1970:112a-18	las grub pa'i rgyu rnams bstan to //	las_0 'grub_4 ba_9 rgyu_14 rnams_19 ston_25 to_31 
+T02D1970:112a-19	le'u lnga pa las ni /	le_0 lnga_5 ba_10 las_13 ni_17 
+T02D1970:112a-20	le'u mtshams sbyar ba dang /	le_0 mtshams_5 sbyor_13 ba_19 dang_22 
+T02D1970:112a-21	bris sku'i ras dang /	'bri_0 sku_5 ras_11 dang_15 
+T02D1970:112a-22	'dri mkhan dang /	'bri_0 mkhan_5 dang_11 
+T02D1970:112a-23	yon dbul ba dang /	yon_0 'bul_4 ba_9 dang_12 
+T02D1970:112a-24	gnas dang /	gnas_0 dang_5 
+T02D1970:112a-25	mi g-yeng bar bya zhing gsang ba dang /	mi_0 g-yeng_3 ba_10 byed_14 zhing_18 gsang_24 ba_30 dang_33 
+T02D1970:112a-26	ri mo ji lta bar bri ba dang /	ri_0 mo_3 ji_6 lta_9 ba_13 'bri_17 ba_21 dang_24 
+T02D1970:112a-27	bris sku dben par mchod pa dang /	'bri_0 sku_5 dben_9 ba_14 mchod_18 ba_24 dang_27 
+T02D1970:112a-28	sku yi spyan sngar bsnyen pa bya ba dang ;	sku_0 yi_4 spyan_7 sngar_13 snyen_19 ba_26 byed_29 ba_33 dang_36 
+T02D1970:112a-29	/ phreng ba'i mtshan nyid dang /	phreng_2 ba_9 mtshan_14 nyid_21 dang_26 
+T02D1970:112a-30	thun mtshams nges pa dang /	thun_0 mtshams_5 nges_13 ba_18 dang_21 
+T02D1970:112a-31	bris sku sba ba dang /	'bri_0 sku_5 sbed_9 ba_13 dang_16 
+T02D1970:112a-32	kha zas kyi tshul dang /	kha_0 zas_4 kyi_8 tshul_12 dang_18 
+T02D1970:112a-33	bdug spos dang /	bdug_0 spros_5 dang_10 
+T02D1970:112a-34	cho ga de dag gis mchog 'grub par 'gyur ba rnams bstan to //	cho_0 ga_4 de_7 'dag_10 gis_14 mchog_18 'grub_24 ba_30 'gyur_34 ba_40 rnams_43 ston_49 to_55 
+T02D1970:112a-35	le'u drug pa las ni /	le_0 drug_5 ba_10 las_13 ni_17 
+T02D1970:112a-36	le'u'i mtshams sbyar ba dang /	le'i_0 mtshams_7 sbyor_15 ba_21 dang_24 
+T02D1970:112a-37	spyir sbyar ba'i cho ga dang /	spyir_0 sbyor_6 ba_12 cho_17 ga_21 dang_24 
+T02D1970:112a-38	gsad pa'i las gnyis dang /	gsad_0 ba_5 las_10 gnyis_14 dang_20 
+T02D1970:112a-39	dbye ba dag dang /	'byed_0 ba_5 'dag_8 dang_12 
+T02D1970:112a-40	bskrad pa'i las bzhi dang /	skrod_0 ba_7 las_12 bzhi_16 dang_21 
+T02D1970:112a-41	mnan pa dang /	gnon_0 ba_5 dang_8 
+T02D1970:112a-42	las kyi dam tshig dang /	las_0 kyi_4 dam_8 tshig_12 dang_18 
+T02D1970:112a-43	bu mo dbang du bya ba dang /	bu_0 mo_3 dbang_6 du_12 byed_15 ba_19 dang_22 
+T02D1970:112a-44	zhi bar bya ba dang /	zhi_0 ba_4 byed_8 ba_12 dang_15 
+T02D1970:112a-45	rgyas par bya ba dang /	rgya_0 ba_6 byed_10 ba_14 dang_17 
+T02D1970:112a-46	dgug par bya ba dang /	'gugs_0 ba_5 byed_9 ba_13 dang_16 
+T02D1970:112a-47	smyo bar bya ba dang /	smyo_0 ba_5 byed_9 ba_13 dang_16 
+T02D1970:112a-48	nor la dbang bsgyur ba dang /	nor_0 la_4 dbang_7 sgyur_13 ba_20 dang_23 
+T02D1970:112a-49	yul dbang du bya ba dang /	yul_0 dbang_4 du_10 byed_13 ba_17 dang_20 
+T02D1970:112a-50	'byor ba bskyed pa dang /	'byor_0 ba_6 skyed_9 ba_16 dang_19 
+T02D1970:112a-51	rgyal po dbang du bya ba dang /	rgyal_0 po_6 dbang_9 du_15 byed_18 ba_22 dang_25 
+T02D1970:112a-52	'jig rten dbang du bya ba dang /	'jig_0 rten_5 dbang_10 du_16 byed_19 ba_23 dang_26 
+T02D1970:112a-53	bud med dbang du bya ba dang /	'bud_0 med_4 dbang_8 du_14 byed_17 ba_21 dang_24 
+T02D1970:112a-54	dbang du bya ba'i mchog dang /	dbang_0 du_6 byed_9 ba_13 mchog_18 dang_24 
+T02D1970:112a-55	dgug pa'i mchog dang /	'gugs_0 ba_5 mchog_10 dang_16 
+T02D1970:112a-56	las rab 'byam gyi dam tshig rnams bstan to //	las_0 rab_4 'byam_8 gyi_14 dam_18 tshig_22 rnams_28 ston_34 to_40 
+T02D1970:112a-57	le'u bdun pa las ni /	le_0 bdun_5 ba_10 las_13 ni_17 
+T02D1970:112a-58	le'u'i mtshams sbyar ba dang /	le'i_0 mtshams_7 sbyor_15 ba_21 dang_24 
+T02D1970:112a-59	gsad pa'i las dag dang /	gsad_0 ba_5 las_10 'dag_14 dang_18 
+T02D1970:112a-60	dbye ba dang /	'byed_0 ba_5 dang_8 
+T02D1970:112a-61	bskrad pa'i las dag dang /	skrod_0 ba_7 las_12 'dag_16 dang_20 
+T02D1970:112a-62	dgug pa dang /	'gugs_0 ba_5 dang_8 
+T02D1970:112a-63	dug bsal ba dang /	dug_0 bsal_4 ba_9 dang_12 
+T02D1970:112a-64	bud med dbang du bya ba dang /	'bud_0 med_4 dbang_8 du_14 byed_17 ba_21 dang_24 
+T02D1970:112a-65	skyes bu chen po dbang du bya ba dang /	skye_0 bu_6 chen_9 po_14 dbang_17 du_23 byed_26 ba_30 dang_33 
+T02D1970:112a-66	dam tshig rnams bstan to //	dam_0 tshig_4 rnams_10 ston_16 to_22 
+T02D1970:112a-67	yan lag gnyis pa mngon par brjod pa'o //	yan_0 lag_4 gnyis_8 ba_14 mngon_17 ba_23 rjod_27 ba_33 
+T02D1970:112b-0	da ni yan lag gsum pa la @112b 'jug par bya ste /	da_0 ni_3 yan_6 lag_10 gsum_14 ba_19 la_22 'jug_31 ba_36 byed_40 ste_44 
+T02D1970:112b-1	de nas zhes bya ba ni bkra shis pa'am /	de_0 nas_3 zhes_7 byed_12 ba_16 ni_19 bkra_22 shis_27 ba_32 
+T02D1970:112b-2	de ma thag pa'am /	de_0 ma_3 thag_6 ba_11 
+T02D1970:112b-3	dbang du bya ba'o //	dbang_0 du_6 byed_9 ba_13 
+T02D1970:112b-4	sgrub pa ste zhes bya ba ni le'u dang po	sgrub_0 ba_6 ste_9 zhes_13 byed_18 ba_22 ni_25 le_28 dang_33 po_38 
+T02D1970:112b-5	ni sgrub pa 'ba' zhig ston pa yin la rtog	ni_0 sgrub_3 ba_9 'ba'_12 'jig_17 ston_22 ba_27 yin_30 la_34 rtogs_37 
+T02D1970:112b-6	pa ril yang sgrub pa gtsor gyur pa ste /	ba_0 ril_3 yang_7 sgrub_12 ba_18 gtsor_21 gyur_27 ba_32 ste_35 
+T02D1970:112b-7	las rab 'byam yang sgrub pas bsdus pa'o //	las_0 rab_4 'byam_8 yang_14 sgrub_19 ba_25 sdud_29 ba_35 
+T02D1970:112b-8	thams cad kyi zhes bya ba ni de dag gi nang na'o //	thams_0 cad_6 kyi_10 zhes_14 byed_19 ba_23 ni_26 de_29 'dag_32 gi_36 nang_39 na_44 
+T02D1970:112b-9	rab tu 'khrugs pa zhes bya ba ni lhag pa'i bdag nyid do //	rab_0 tu_4 'khrugs_7 ba_15 zhes_18 byed_23 ba_27 ni_30 lhag_33 ba_38 bdag_43 nyid_48 do_53 
+T02D1970:112b-10	'jigs byed ces bya ba ni phyi rol lo //	'jigs_0 byed_6 ces_11 byed_15 ba_19 ni_22 phyi_25 rol_30 lo_34 
+T02D1970:112b-11	yang na rab tu 'khrugs pas 'jigs byed pa'o //	yang_0 na_5 rab_8 tu_12 'khrugs_15 ba_23 'jigs_27 byed_33 ba_38 
+T02D1970:112b-12	gang yang rung ba'i gnas zhes bya ba ni 'chad par byed pa rnams la'o //	gang_0 yang_5 rung_10 ba_15 gnas_20 zhes_25 byed_30 ba_34 ni_37 'chad_40 ba_46 byed_50 ba_55 rnams_58 la_64 
+T02D1970:112b-13	gnas rnams zhes bya ba ni bsgrub pa'i gnas nges pa'o //	gnas_0 rnams_5 zhes_11 byed_16 ba_20 ni_23 sgrub_26 ba_33 gnas_38 nges_43 ba_48 
+T02D1970:112b-14	'thab mo'i gnas zhes bya ba ni rgyal po'i g-yul 'gyed pa'i sa'o //	'thab_0 mo_6 gnas_11 zhes_16 byed_21 ba_25 ni_28 rgyal_31 po_37 g-yul_42 'gyed_48 ba_54 sa_59 
+T02D1970:112b-15	dbang bskur thob pa zhes bya ba ni gshin rje	dbang_0 skur_6 'thob_12 ba_17 zhes_20 byed_25 ba_29 ni_32 gshin_35 rje_41 
+T02D1970:112b-16	dgra nag po'i rgyud ces bya ba rgyud 'di nyid	dgra_0 nag_5 po_9 brgyud_14 ces_20 byed_24 ba_28 brgyud_31 'di_37 nyid_41 
+T02D1970:112b-17	dang rjes su mthun pa'i rgyud de las 'dir dbang	dang_0 rjes_5 su_10 mthun_13 ba_19 brgyud_24 de_30 las_33 'dir_37 dbang_42 
+T02D1970:112b-18	bskur ba'i tshul dang /	skur_0 ba_6 tshul_11 dang_17 
+T02D1970:112b-19	gtor ma dang /	'thor_0 ma_5 dang_8 
+T02D1970:112b-20	'khrul 'khor gyi bya ba dang /	'khrul_0 'khor_7 gyi_13 byed_17 ba_21 dang_24 
+T02D1970:112b-21	bstod pa la sogs pa drang bar bya ste /	bstod_0 ba_6 la_9 sogs_12 ba_17 'dren_20 ba_26 byed_30 ste_34 
+T02D1970:112b-22	de bas na de ltar dbang bskur ba'i rnal 'byor	de_0 ba_3 na_7 de_10 ltar_13 dbang_18 skur_24 ba_30 rnal_35 'byor_40 
+T02D1970:112b-23	pa des dbang du bya ba la sogs pa bsgrub	ba_0 des_3 dbang_7 du_13 byed_16 ba_20 la_23 sogs_26 ba_31 sgrub_34 
+T02D1970:112b-24	ste / kha cig ni rgyud 'di nyid las gsungs la /	ste_0 kha_6 cig_10 ni_14 brgyud_17 'di_23 nyid_27 las_32 gsungs_36 la_43 
+T02D1970:112b-25	ral gri la sogs pa kha cig ni rgyud gzhan gyi lugs su bsgrub po //	ral_0 gri_4 la_8 sogs_11 ba_16 kha_19 cig_23 ni_27 brgyud_30 gzhan_36 gyi_42 lugs_46 su_51 sgrub_54 po_61 
+T02D1970:112b-26	de ltar yang /	de_0 ltar_3 yang_8 
+T02D1970:112b-27	gang nyid du ni rang nyid kyi //	gang_0 nyid_5 du_10 ni_13 rang_16 nyid_21 kyi_26 
+T02D1970:112b-28	las kyi cho ga rnams med pa //	las_0 kyi_4 cho_8 ga_12 rnams_15 med_21 ba_25 
+T02D1970:112b-29	de ni spyi rgyud las grags pa'i //	de_0 ni_3 spyi_6 brgyud_11 las_17 grags_21 ba_27 
+T02D1970:112b-30	cho ga mkhas pas shes par bya //	cho_0 ga_4 mkhas_7 ba_13 shes_17 ba_22 byed_26 
+T02D1970:112b-31	zhes gsungs so //	zhes_0 gsungs_5 so_12 
+T02D1970:112b-32	ro bsregs pa'i thal bas zhes bya ba ni /	ro_0 bsregs_3 ba_10 thal_15 ba_20 zhes_24 byed_29 ba_33 ni_36 
+T02D1970:112b-33	'dir drag shul spyad pa gtso bor gyur bas lha'i chon gyi gor thal phye bshad pa yin la /	'dir_0 drag_5 shul_10 spyod_15 ba_21 gtso_24 'bor_29 gyur_33 ba_38 lha_42 chon_48 gyi_53 gor_57 thal_61 'byed_66 'chad_71 ba_77 yin_80 la_84 
+T02D1970:112b-34	de nyid kyis ri mo yang gcig kho na lnga'i gor sbyar ro //	de_0 nyid_3 kyis_8 ri_13 mo_16 yang_19 gcig_24 kho_29 na_33 lnga_36 gor_43 sbyor_47 ro_53 
+T02D1970:112b-35	thal phyer gang dag bshad pa ni //	thal_0 phyer_5 gang_11 'dag_16 'chad_20 ba_26 ni_29 
+T02D1970:112b-36	de dag thams cad ri mo gcig / ces gsungs pas so //	de_0 'dag_3 thams_7 cad_13 ri_17 mo_20 gcig_23 ces_30 gsungs_34 ba_41 so_45 
+T02D1970:112b-37	zlum po zhes bya ba ni nang gi rdo rje phreng bas bskor ba'o //	zlum_0 po_5 zhes_8 byed_13 ba_17 ni_20 nang_23 gi_28 rdo_31 rje_35 phreng_39 ba_46 skor_50 ba_56 
+T02D1970:112b-38	sgo rnams gzhan ni gcad par bya //	sgo_0 rnams_4 gzhan_10 ni_16 gcod_19 ba_24 byed_28 
+T02D1970:112b-39	zhes bya ba ni lho phyogs las gzhan pa gsum gcad pa ste /	zhes_0 byed_5 ba_9 ni_12 lho_15 phyogs_19 las_26 gzhan_30 ba_36 gsum_39 gcod_44 ba_49 ste_52 
+T02D1970:112b-40	ji skad du /	ji_0 skad_3 du_8 
+T02D1970:112b-41	chab sgo chen po stegs bur bcas //	chab_0 sgo_5 chen_9 po_14 stegs_17 bur_23 'cha'_27 
+T02D1970:112b-42	cung zad gcig ni lhag par bya //	cung_0 zad_5 gcig_9 ni_14 lhag_17 ba_22 byed_26 
+T02D1970:112b-43	chag sgo gzhan rnams bcad pa ni //	'chag_0 sgo_5 gzhan_9 rnams_15 gcod_21 ba_26 ni_29 
+T02D1970:112b-44	phye ma dkar po dag gis su //	'byed_0 ma_5 dkar_8 po_13 'dag_16 gis_20 su_24 
+T02D1970:112b-45	sgo yi dbus kyi cha dag tu //	sgo_0 yi_4 dbus_7 kyi_12 cha_16 'dag_20 tu_24 
+T02D1970:112b-46	ri mo phra mo bri bar bya //	ri_0 mo_3 phra_6 mo_11 'bri_14 ba_18 byed_22 
+T02D1970:112b-47	zhes gsungs pa'o //	zhes_0 gsungs_5 ba_12 
+T02D1970:113a-0	ro bri'o zhes bya ba @113a * //	ro_0 'bri_3 zhes_9 byed_14 ba_18 
+T02D1970:113a-1	ni gdan te //	ni_0 gdan_3 te_8 
+T02D1970:113a-2	ji skad du gsungs pa /	ji_0 skad_3 du_8 gsungs_11 ba_18 
+T02D1970:113a-3	dkyil 'khor dag gi cho ga ni //	dkyil_0 'khor_6 'dag_12 gi_16 cho_19 ga_23 ni_26 
+T02D1970:113a-4	rnam pa gsum po ma lus par //	rnam_0 ba_5 gsum_8 po_13 ma_16 lus_19 ba_23 
+T02D1970:113a-5	lha rnams thams cad dgod pa ni //	lha_0 rnams_4 thams_10 cad_16 'god_20 ba_25 ni_28 
+T02D1970:113a-6	rnam pa gsum du shes bya ste //	rnam_0 ba_5 gsum_8 du_13 shes_16 byed_21 ste_25 
+T02D1970:113a-7	dang por gzugs su bri bar bya //	dang_0 por_5 gzugs_9 su_15 'bri_18 ba_22 byed_26 
+T02D1970:113a-8	gnyis pa phyag rgya'i gzugs su bri //	gnyis_0 ba_6 phyag_9 rgya_15 gzugs_22 su_28 'bri_31 
+T02D1970:113a-9	gsum pa gnas dang stan dag tu //	gsum_0 ba_5 gnas_8 dang_13 stan_18 'dag_23 tu_27 
+T02D1970:113a-10	bri ba'i cho ga yongs su bsgrags //	'bri_0 ba_4 cho_9 ga_13 yongs_16 su_22 sgrog_25 
+T02D1970:113a-11	zhes so //	zhes_0 so_5 
+T02D1970:113a-12	'on kyang dpa' bo gcig pa'i dkyil 'khor du ni /	'on_0 kyang_4 dpa'_10 'bo_15 gcig_18 ba_23 dkyil_28 'khor_34 du_40 ni_43 
+T02D1970:113a-13	phyag mtshan ji snyed pa dgod par bya ba yang yin pas na /	phyag_0 mtshan_6 ji_13 snyed_16 ba_22 'god_25 ba_30 byed_34 ba_38 yang_41 yin_46 ba_50 na_54 
+T02D1970:113a-14	shar du ni mgo bo zhes bya ba la sogs pa smos te /	'char_0 du_5 ni_8 mgo_11 'bo_15 zhes_18 byed_23 ba_27 la_30 sogs_33 ba_38 smos_41 te_46 
+T02D1970:113a-15	slob mas me tog bor na ni snying po'i gnas	slob_0 mas_5 me_9 tog_12 'bor_16 na_20 ni_23 snying_26 po_33 gnas_38 
+T02D1970:113a-16	dgu po gang du lhung yang dngos grub mchog tu	dgu_0 po_4 gang_7 du_12 lhung_15 yang_21 dngos_26 'grub_32 mchog_37 tu_43 
+T02D1970:113a-17	'gyur te / snying por me tog bab na ni //	'gyur_0 te_6 snying_11 por_18 me_22 tog_25 'bab_29 na_33 ni_36 
+T02D1970:113a-18	rtag tu don med mi 'gyur bshad //	rtag_0 tu_5 don_8 med_12 mi_16 'gyur_19 'chad_25 
+T02D1970:113a-19	ces gsungs pa'o //	ces_0 gsungs_4 ba_11 
+T02D1970:113a-20	byang gi snam bu'i mtshan ma la bab na /	byang_0 gi_6 snam_9 bu_14 mtshan_19 ma_26 la_29 'bab_32 na_36 
+T02D1970:113a-21	zhi ba'i las 'grub po //	zhi_0 ba_4 las_9 'grub_13 po_19 
+T02D1970:113a-22	lhor ni tshar bcad pa rnams so //	lhor_0 ni_5 tshar_8 gcod_14 ba_19 rnams_22 so_28 
+T02D1970:113a-23	nub tu ni dbang du bya ba dang dgug pa'o //	nub_0 tu_4 ni_7 dbang_10 du_16 byed_19 ba_23 dang_26 'gugs_31 ba_36 
+T02D1970:113a-24	shar du ni rgyas pa'o //	'char_0 du_5 ni_8 rgya_11 ba_17 
+T02D1970:113a-25	ri mo'i phyi rol lam mtshan ma gnyis kyi bar lan gsum bab na dbang mi bskur ro //	ri_0 mo_3 phyi_8 rol_13 lam_17 mtshan_21 ma_28 gnyis_31 kyi_37 ba_41 lan_45 gsum_49 'bab_54 na_58 dbang_61 mi_67 skur_70 ro_76 
+T02D1970:113a-26	sgrub pa pos ni /	sgrub_0 ba_6 pos_9 ni_13 
+T02D1970:113a-27	ro'i steng du bdag po'i lugs ma'am bris sku'am /	ro_0 steng_5 du_11 bdag_14 po_19 lugs_24 ma_29 'bri_35 sku_40 
+T02D1970:113a-28	brkos pa'i sku bzhugs pa /	rko_0 ba_6 sku_11 bzhugs_15 ba_22 
+T02D1970:113a-29	me tog dor ba byas la bdag nyid dbang bskur te /	me_0 tog_3 'dor_7 ba_11 byed_14 la_19 bdag_22 nyid_27 dbang_32 skur_38 te_44 
+T02D1970:113a-30	dbus kyi lha gsal ba'i gnas su 'dug pa las rdzas 'grub pa'am /	dbus_0 kyi_5 lha_9 gsal_13 ba_18 gnas_23 su_28 'dug_31 ba_36 las_39 rdzas_43 'grub_49 ba_55 
+T02D1970:113a-31	rgyud las ji skad gsungs pa ltar mchog stsol bar bya'o //	brgyud_0 las_6 ji_10 skad_13 gsungs_18 ba_25 ltar_28 mchog_33 stsol_39 ba_45 byed_49 
+T02D1970:113a-32	phyogs thams cad du yang /	phyogs_0 thams_7 cad_13 du_17 yang_20 
+T02D1970:113a-33	sogs pa'i sgras bsdus pa glang po che'i pags pa re re'am /	sogs_0 ba_5 sgras_10 sdud_16 ba_22 glang_25 po_31 che_34 pags_40 ba_45 re_48 re_51 
+T02D1970:113a-34	yang na rkang lag gi cha'i pags pa bri'o //	yang_0 na_5 rkang_8 lag_14 gi_18 cha_21 pags_27 ba_32 'bri_35 
+T02D1970:113a-35	gzhan dag ni sogs pa zhes bya ba'i sgras mtshon cha gang yang rung ba bri bar 'chad do //	gzhan_0 'dag_6 ni_10 sogs_13 ba_18 zhes_21 byed_26 ba_30 sgras_35 mtshon_41 cha_48 gang_52 yang_57 rung_62 ba_67 'bri_70 ba_74 'chad_78 do_84 
+T02D1970:113a-36	thabs dang shes rab phul du byung ba dbyer med pa'i tshul du 'gyur ba ni /	thabs_0 dang_6 shes_11 rab_16 'bul_20 du_25 'byung_28 ba_34 dbyer_37 med_43 ba_47 tshul_52 du_58 'gyur_61 ba_67 ni_70 
+T02D1970:113a-37	phyag gnyis glang po che'i pags pa dang bcas pa yin la /	phyag_0 gnyis_6 glang_12 po_18 che_21 pags_27 ba_32 dang_35 'cha'_40 ba_45 yin_48 la_52 
+T02D1970:113a-38	de bzhin gshegs pa'i thugs rje chen po'i sum cu gnyis nyid ni /	de_0 bzhin_3 gshegs_9 ba_16 thugs_21 rje_27 chen_31 po_36 sum_41 cu_45 gnyis_48 nyid_54 ni_59 
+T02D1970:113a-39	phyag gi mtshon cha dang bcas pa lhag mas ston pas na /	phyag_0 gi_6 mtshon_9 cha_16 dang_20 'cha'_25 ba_30 lhag_33 mas_38 ston_42 ba_47 na_51 
+T02D1970:113a-40	mtshon cha gzhan gang yang rung /	mtshon_0 cha_7 gzhan_11 gang_17 yang_22 rung_27 
+T02D1970:113a-41	bri ba ni mi 'thad pa nyid do //	'bri_0 ba_4 ni_7 mi_10 'thad_13 ba_19 nyid_22 do_27 
+T02D1970:113a-42	ro langs chen po brgyad ces bya ba ni gcer	ro_0 ldang_3 chen_9 po_14 brgyad_17 ces_24 byed_28 ba_32 ni_35 bcer_38 
+T02D1970:113a-43	bu skra grol ba so rno ba nag po srin	bu_0 skra_3 grol_8 ba_13 so_16 rno_19 ba_23 nag_26 po_30 srin_33 
+T02D1970:113a-44	po lta bu gri gug dang /	po_0 lta_3 bu_7 gri_10 gug_14 dang_18 
+T02D1970:113a-45	thod pa thogs pa rnams so //	thod_0 ba_5 thogs_8 ba_14 rnams_17 so_23 
+T02D1970:113a-46	'di dag ni sgrub pa po'i grogs su gyur pa 'dod pa'i las 'grub pa'o //	'di_0 'dag_4 ni_8 sgrub_11 ba_17 po_20 grogs_25 su_31 gyur_34 ba_39 'dod_42 ba_47 las_52 'grub_56 ba_62 
+T02D1970:113b-0	bza' ston @113b ni dkyil 'khor du 'jug pa na tshogs kyi 'khor lo bya ba'o //	bza'_0 ston_5 ni_16 dkyil_19 'khor_25 du_31 'jug_34 ba_39 na_42 tshogs_45 kyi_52 'khor_56 lo_62 byed_65 ba_69 
+T02D1970:113b-1	sbyin sreg ni 'jug pa na'o //	sbyin_0 sreg_6 ni_11 'jug_14 ba_19 na_22 
+T02D1970:113b-2	gtor ma'i las ni zhes bya ba sgrub pa pos srod la sbyin te /	'thor_0 ma_5 las_10 ni_14 zhes_17 byed_22 ba_26 sgrub_29 ba_35 pos_38 srod_42 la_47 sbyin_50 te_56 
+T02D1970:113b-3	slob ma dbang bskur ba la ni dkyil 'khor bsgrub par byas la'o //	slob_0 ma_5 dbang_8 skur_14 ba_20 la_23 ni_26 dkyil_29 'khor_35 sgrub_41 ba_48 byed_52 la_57 
+T02D1970:113b-4	yang na gnyis kar nam phyed na'o //	yang_0 na_5 gnyis_8 kar_14 nam_18 phyed_22 na_28 
+T02D1970:113b-5	dbus su bsgrub bya dmigs la zhes bya ba ni	dbus_0 su_5 sgrub_8 byed_15 dmigs_19 la_25 zhes_28 byed_33 ba_37 ni_40 
+T02D1970:113b-6	sangs rgyas kyi bstan pa la 'khu ba gang su	sangs_0 rgya_6 kyi_12 ston_16 ba_22 la_25 'khu_28 ba_33 gang_36 su_41 
+T02D1970:113b-7	yang rung ba zhig gdan du dmigs par bya'o //	yang_0 rung_5 ba_10 'jig_13 gdan_18 du_23 dmigs_26 ba_32 byed_36 
+T02D1970:113b-8	gzhan yang dbus su bsgrub bya'i gzugs su 'khrul 'khor	gzhan_0 yang_6 dbus_11 su_16 sgrub_19 byed_26 gzugs_32 su_38 'khrul_41 'khor_48 
+T02D1970:113b-9	dang pu ta lang+gi dang bcas pa'i ya ma pu	dang_0 pu_5 ta_8 lang_11 gi_16 dang_19 'cha'_24 ba_29 ya_34 ma_37 pu_40 
+T02D1970:113b-10	tra sha bzhag la'o //	tra_0 sha_4 'jog_8 la_14 
+T02D1970:113b-11	'dir zhi ba dang /	'dir_0 zhi_5 ba_9 dang_12 
+T02D1970:113b-12	rgyas pa la ni mdun du'o //	rgya_0 ba_6 la_9 ni_12 mdun_15 du_20 
+T02D1970:113b-13	gzhan dag ni sngar gsungs pa'i sdom gyi las ma	gzhan_0 'dag_6 ni_10 sngar_13 gsungs_19 ba_26 sdom_31 gyi_36 las_40 ma_44 
+T02D1970:113b-14	lus pa la 'di ltar bsgrub par bya ba min	lus_0 ba_4 la_7 'di_10 ltar_14 sgrub_19 ba_26 byed_30 ba_34 min_37 
+T02D1970:113b-15	pas na / gsad par bya ba gdan du brtags te bzlas pa bya bar 'dod de /	ba_0 na_4 gsad_9 ba_14 byed_18 ba_22 gdan_25 du_30 rtog_33 te_40 bzlas_43 ba_49 byed_52 ba_56 'dod_60 de_65 
+T02D1970:113b-16	dngos grub mchog sgrub pa dag ma yin pa la	dngos_0 'grub_6 mchog_11 sgrub_17 ba_23 'dag_26 ma_30 yin_33 ba_37 la_40 
+T02D1970:113b-17	dkyil 'khor bri ba ni gang du yang mi 'gyur	dkyil_0 'khor_6 'bri_12 ba_16 ni_19 gang_22 du_27 yang_30 mi_35 'gyur_38 
+T02D1970:113b-18	bas na de ni mi rigs te /	ba_0 na_4 de_7 ni_10 mi_13 rigs_16 te_21 
+T02D1970:113b-19	sngar bstan pa ltar ting nge 'dzin gyis ni rung ngo //	sngar_0 ston_6 ba_12 ltar_15 ting_20 nge_25 'dzin_29 gyis_35 ni_40 rung_43 ngo_48 
+T02D1970:113b-20	yi ge bcu pa'i gsang sngags zhes bya ba ni	yi_0 ge_3 'chu_6 ba_10 gsang_15 sngags_21 zhes_28 byed_33 ba_37 ni_40 
+T02D1970:113b-21	bya ba thams cad la de nye bar gnas pa	byed_0 ba_4 thams_7 cad_13 la_17 de_20 nye_23 ba_27 gnas_31 ba_36 
+T02D1970:113b-22	ste / rtsa ba'i sngags ni 'khrul 'khor gyi bya ba tsam la gnas la /	ste_0 rtsa_6 ba_11 sngags_16 ni_23 'khrul_26 'khor_33 gyi_39 byed_43 ba_47 tsam_50 la_55 gnas_58 la_63 
+T02D1970:113b-23	snying po'i sngags kyang lha nye bar gyur pa tsam la gtso bor 'gyur bas so //	snying_0 po_7 sngags_12 kyang_19 lha_25 nye_29 ba_33 gyur_37 ba_42 tsam_45 la_50 gtso_53 'bor_58 'gyur_62 ba_68 so_72 
+T02D1970:113b-24	rig sngags 'chang gis gsol ba btab pa zhes bya	rig_0 sngags_4 'chang_11 gis_18 gsol_22 ba_27 'debs_30 ba_35 zhes_38 byed_43 
+T02D1970:113b-25	ba ni khrag chen po'i yon chab phul nas gus	ba_0 ni_3 khrag_6 chen_12 po_17 yon_22 chab_26 'bul_31 nas_36 gus_40 
+T02D1970:113b-26	par byas te'o // gzhan yang yid la gang 'dod pa //	ba_0 byed_4 te_9 gzhan_17 yang_23 yid_28 la_32 gang_35 'dod_40 ba_45 
+T02D1970:113b-27	zhes bya ba ni rang gi sbyangs pa dang mthun pa tsam las gang 'dod pa ste /	zhes_0 byed_5 ba_9 ni_12 rang_15 gi_20 sbyong_23 ba_31 dang_34 mthun_39 ba_45 tsam_48 las_53 gang_57 'dod_62 ba_67 ste_70 
+T02D1970:113b-28	bstod dang bcas nas mchod yon rgyun sbrengs nas //	bstod_0 dang_6 'cha'_11 nas_16 mchod_20 yon_26 rgyun_30 sbreng_36 nas_44 
+T02D1970:113b-29	rtse gcig sems kyis gdong btung phyag byas te //	rtse_0 gcig_5 sems_10 kyis_15 gdong_20 'thung_26 phyag_32 byed_38 te_43 
+T02D1970:113b-30	dad dang 'bad pa'i rjes mthun dam pa blang //	dad_0 dang_4 'bad_9 ba_14 rjes_19 mthun_24 dam_30 ba_34 blang_37 
+T02D1970:113b-31	dam pa thob na dga' bas phyag byas te /	dam_0 ba_4 'thob_7 na_12 dga'_15 ba_20 phyag_24 byed_30 te_35 
+T02D1970:113b-32	dad pas bstod nas mchod yon phul nas su //	dad_0 ba_4 bstod_8 nas_14 mchod_18 yon_24 'bul_28 nas_33 su_37 
+T02D1970:113b-33	gsang sngags brjod cing slar yang gshegs su gsol //	gsang_0 sngags_6 rjod_13 cing_19 slar_24 yang_29 gshegs_34 su_41 gsol_44 
+T02D1970:113b-34	zhes ji skad gsungs pa lta bu'o //	zhes_0 ji_5 skad_8 gsungs_13 ba_20 lta_23 bu_27 
+T02D1970:113b-35	las phra mo bya ba ni 'khrul 'khor dang /	las_0 phra_4 mo_9 byed_12 ba_16 ni_19 'khrul_22 'khor_29 dang_35 
+T02D1970:113b-36	sbyin sreg dang /	sbyin_0 sreg_6 dang_11 
+T02D1970:113b-37	bsam gtan gyis bsgrub par bya ba 'chad par 'gyur ba rnams so //	bsam_0 gtan_5 gyis_10 sgrub_15 ba_22 byed_26 ba_30 'chad_33 ba_39 'gyur_43 ba_49 rnams_52 so_58 
+T02D1970:113b-38	dpal 'jam pa'i mchog ces bya ba ni rgyud chen po'i mtshan du bsgrag go //	dpal_0 'jam_5 ba_10 mchog_15 ces_21 byed_25 ba_29 ni_32 brgyud_35 chen_41 po_46 mtshan_51 du_58 sgrog_61 go_68 
+T02D1970:113b-39	dpal 'dzam pa'i mchog gis bshad pa'am /	dpal_0 'dzam_5 ba_11 mchog_16 gis_22 'chad_26 ba_32 
+T02D1970:113b-40	de'i khro bo dpal rdo rje 'jigs byed chen po zhes bshad do //	de_0 khro_5 'bo_10 dpal_13 rdo_18 rje_22 'jigs_26 byed_32 chen_37 po_42 zhes_45 'chad_50 do_56 
+T02D1970:114a-0	'khor @114a * //	'khor_0 
+T02D1970:114a-1	lo'i rnal 'byor zhes bya ba ni bsgrub pa'i dkyil 'khor gyi sbyor ba bstan pa'o //	lo_0 rnal_5 'byor_10 zhes_16 byed_21 ba_25 ni_28 sgrub_31 ba_38 dkyil_43 'khor_49 gyi_55 sbyor_59 ba_65 ston_68 ba_74 
+T02D1970:114a-2	sbyor ba'i rgyud ces bya ba ni rgyud 'dir phyi rol gyi sbyor ba rab tu mang bas na'o //	sbyor_0 ba_6 brgyud_11 ces_17 byed_21 ba_25 ni_28 brgyud_31 'dir_37 phyi_42 rol_47 gyi_51 sbyor_55 ba_61 rab_64 tu_68 mang_71 ba_76 na_80 
+T02D1970:114a-3	de ltar na 'di bya ba'i rgyud ces brjod do zhe na /	de_0 ltar_3 na_8 'di_11 byed_15 ba_19 brgyud_24 ces_30 rjod_34 do_40 zhe_43 na_47 
+T02D1970:114a-4	bsam gtan 'ba' zhig gi bya ba ston pa'i le'u bdun pa 'byung ba dang ;	bsam_0 gtan_5 'ba'_10 'jig_15 gi_20 byed_23 ba_27 ston_30 ba_35 le_40 bdun_45 ba_50 'byung_53 ba_60 dang_63 
+T02D1970:114a-5	/ phyi rol gyi spyor ba'i bya ba thams cad	phyi_2 rol_7 gyi_11 spyor_15 ba_21 byed_26 ba_30 thams_33 cad_39 
+T02D1970:114a-6	la yang shin tu mnyam par gzhag pas bya'o zhes	la_0 yang_3 shin_8 tu_13 mnyam_16 ba_22 'jog_26 ba_32 byed_36 zhes_42 
+T02D1970:114a-7	nang gi rnal 'byor rab tu yang gces par ston	nang_0 gi_5 rnal_8 'byor_13 rab_19 tu_23 yang_26 gces_31 ba_36 ston_40 
+T02D1970:114a-8	pas na / bya ba'i rgyud ni min te /	ba_0 na_4 byed_9 ba_13 brgyud_18 ni_24 min_27 te_31 
+T02D1970:114a-9	'on kyang phyi rol gyi sbyor ba chen po'i rnal 'byor gyi rgyud do //	'on_0 kyang_4 phyi_10 rol_15 gyi_19 sbyor_23 ba_29 chen_32 po_37 rnal_42 'byor_47 gyi_53 brgyud_57 do_63 
+T02D1970:114a-10	gzhan dag ni 'dir yo ga zhes bya ba yu dzir mi 'dren te /	gzhan_0 'dag_6 ni_10 'dir_13 yo_18 ga_21 zhes_24 byed_29 ba_33 yu_36 dzir_39 mi_44 bgrang_47 te_53 
+T02D1970:114a-11	yo ni sha nyid du 'dren na /	yo_0 ni_3 sha_6 nyid_10 du_15 bgrang_18 na_24 
+T02D1970:114a-12	de ni ma yin te /	de_0 ni_3 ma_6 yin_9 te_13 
+T02D1970:114a-13	'dir yu dzir nyid shas che ba'i yo ni sha ni le'u bdun pa tsam las med cing /	'dir_0 yu_5 dzir_8 nyid_13 shas_18 che_23 ba_27 yo_32 ni_35 sha_38 ni_42 le_45 bdun_50 ba_55 tsam_58 las_63 med_67 cing_71 
+T02D1970:114a-14	lha'i sku bsgrub pa la ni bya ba'i rgyud las yang yo ni sha yod pa'i phyir ro //	lha_0 sku_6 sgrub_10 ba_17 la_20 ni_23 byed_26 ba_30 brgyud_35 las_41 yang_45 yo_50 ni_53 sha_56 yod_60 ba_64 phyir_69 ro_75 
+T02D1970:114a-15	le'u dang po'i bshad pa'o /	le_0 dang_5 po_10 'chad_15 ba_21 
+T02D1970:114a-17	// / de nas zhes bya ba ni dang po'i bstan ma thag tu'o //	de_5 nas_8 zhes_12 byed_17 ba_21 ni_24 dang_27 po_32 ston_37 ma_43 thag_46 tu_51 
+T02D1970:114a-18	dngos grub thams cad ces bya ba ni phra mo rnams te /	dngos_0 'grub_6 thams_11 cad_17 ces_21 byed_25 ba_29 ni_32 phra_35 mo_40 rnams_43 te_49 
+T02D1970:114a-19	de dag ni dngos grub tu bzhag pa phal ba rnams kyi yin la /	de_0 'dag_3 ni_7 dngos_10 'grub_16 tu_21 'jog_24 ba_30 phal_33 ba_38 rnams_41 kyi_47 yin_51 la_55 
+T02D1970:114a-20	grub pa rnams kyi ni phrin las bzhag pa yin pa'o //	'grub_0 ba_5 rnams_8 kyi_14 ni_18 phrin_21 las_27 'jog_31 ba_37 yin_40 ba_44 
+T02D1970:114a-21	sngon du ji ltar brjod pa bzhin //	sngon_0 du_6 ji_9 ltar_12 rjod_17 ba_23 bzhin_26 
+T02D1970:114a-22	zhes bya ba ni sngon du dbang dang dgug dang zhes bya ba la sogs pas so //	zhes_0 byed_5 ba_9 ni_12 sngon_15 du_21 dbang_24 dang_30 'gugs_35 dang_40 zhes_45 byed_50 ba_54 la_57 sogs_60 ba_65 so_69 
+T02D1970:114a-23	gnod mdzes kyi gsang sngags zhes bya ba ni yi ge h'um bzhi ba'i sngags so //	gnod_0 mdzes_5 kyi_11 gsang_15 sngags_21 zhes_28 byed_33 ba_37 ni_40 yi_43 ge_46 h_49 bzhi_54 ba_59 sngags_64 so_71 
+T02D1970:114a-24	bzlas te zhes bya ba ni 'khrul 'khor 'dri ba	bzlas_0 te_6 zhes_9 byed_14 ba_18 ni_21 'khrul_24 'khor_31 'bri_37 ba_42 
+T02D1970:114a-25	na bsrung ba'i phyir lan bdun la sogs par ro	na_0 bsrung_3 ba_10 phyir_15 lan_21 bdun_25 la_30 sogs_33 ba_38 ro_42 
+T02D1970:114a-26	// gzhan dag ni /	gzhan_3 'dag_9 ni_13 
+T02D1970:114a-27	aom phu phu phu hi hi hi /	aom_0 phu_4 phu_8 phu_12 hi_16 hi_19 hi_22 
+T02D1970:114a-28	zhes bya bas bsrung bar 'dod do //	zhes_0 byed_5 ba_9 bsrung_13 ba_20 'dod_24 do_29 
+T02D1970:114a-29	gang yang rung ste de bzhin gshegs pa'i rigs kyi bsrung ba la 'di nye bar gnas pas so //	gang_0 yang_5 rung_10 ste_15 de_19 bzhin_22 gshegs_28 ba_35 rigs_40 kyi_45 bsrung_49 ba_56 la_59 'di_62 nye_66 ba_70 gnas_74 ba_79 so_83 
+T02D1970:114a-30	sbyor ba'i rgyud kyi gtso bo zhes bya ba ni /	sbyor_0 ba_6 brgyud_11 kyi_17 gtso_21 'bo_26 zhes_29 byed_34 ba_38 ni_41 
+T02D1970:114a-31	ji ltar rgyud 'di nas tshar bcad pa'i sbyor ba bstan pa ltar /	ji_0 ltar_3 brgyud_8 'di_14 nas_18 tshar_22 gcod_28 ba_33 sbyor_38 ba_44 ston_47 ba_53 ltar_56 
+T02D1970:114a-32	sbyor ba rgyud gzhan las de ltar lhur ma mdzad pas na'o //	sbyor_0 ba_6 brgyud_9 gzhan_15 las_21 de_25 ltar_28 lhur_33 ma_38 mdzad_41 ba_47 na_51 
+T02D1970:114a-33	lha'i rnal 'byor ji lta ba dang ldan pa'i rnal 'byor bas zhes bya ba ni /	lha_0 rnal_6 'byor_11 ji_17 lta_20 ba_24 dang_27 ldan_32 ba_37 rnal_42 'byor_47 ba_53 zhes_57 byed_62 ba_66 ni_69 
+T02D1970:114a-34	lha'i gzugs tshul bzhin yid la byed pas thob par bya'i /	lha_0 gzugs_6 tshul_12 bzhin_18 yid_24 la_28 byed_31 ba_36 'thob_40 ba_45 byed_49 
+T02D1970:114a-35	gal te rnam par g-yengs na sbyor ba mi 'grub ste /	gal_0 te_4 rnam_7 ba_12 g-yengs_16 na_24 sbyor_27 ba_33 mi_36 'grub_39 ste_45 
+T02D1970:114a-36	bzlas brjod dang ni dka' thub kun //	bzlas_0 rjod_6 dang_12 ni_17 dka'_20 thub_25 kun_30 
+T02D1970:114a-37	dus ni dang por byas gyur kyang //	dus_0 ni_4 dang_7 por_12 byed_16 gyur_21 kyang_26 
+T02D1970:114a-38	gzhan sems pa dang gzhan pas ni /	gzhan_0 sems_6 ba_11 dang_14 gzhan_19 ba_25 ni_29 
+T02D1970:114a-39	de dag thams cad don med 'gyur //	de_0 'dag_3 thams_7 cad_13 don_17 med_21 'gyur_25 
+T02D1970:114b-0	zhes gsungs pas @114b so ;	zhes_0 gsungs_5 ba_12 so_22 
+T02D1970:114b-1	/ khor lo re'u cha bcu drug pa //	lo_7 re_10 cha_15 'chu_19 drug_23 ba_28 
+T02D1970:114b-2	zhes bya ba ni rim pa gsum las rim pa phyi rol ma'o //	zhes_0 byed_5 ba_9 ni_12 rim_15 ba_19 gsum_22 las_27 rim_31 ba_35 phyi_38 rol_43 ma_47 
+T02D1970:114b-3	de bzhin du bar ma ni bcu gnyis pa'o //	de_0 bzhin_3 du_9 ba_12 ma_16 ni_19 'chu_22 gnyis_26 ba_32 
+T02D1970:114b-4	nang ma ni dgu pa ste /	nang_0 ma_5 ni_8 dgu_11 ba_15 ste_18 
+T02D1970:114b-5	de ltar ni /	de_0 ltar_3 ni_8 
+T02D1970:114b-6	mkhas pas cho ga bzhin bri ba //	mkhas_0 ba_6 cho_10 ga_14 bzhin_17 'bri_23 ba_27 
+T02D1970:114b-7	brgyad dang bcu gnyis bcu drug tu //	brgyad_0 dang_7 'chu_12 gnyis_16 'chu_22 drug_26 tu_31 
+T02D1970:114b-8	zhes gsungs pa ste /	zhes_0 gsungs_5 ba_12 ste_15 
+T02D1970:114b-9	brgyad ces bya ba ni re'u mig dbus ma dor ba'o //	brgyad_0 ces_7 byed_11 ba_15 ni_18 re_21 mig_26 dbus_30 ma_35 'dor_38 ba_42 
+T02D1970:114b-10	me gnyis kyi dbus su bsgrub bya'i ming smos shing zhes bya ba la /	me_0 gnyis_3 kyi_9 dbus_13 su_18 sgrub_21 byed_28 ming_34 smos_39 shing_44 zhes_50 byed_55 ba_59 la_62 
+T02D1970:114b-11	me ni yi ge phat yin te /	me_0 ni_3 yi_6 ge_9 phat_12 yin_17 te_21 
+T02D1970:114b-12	me dang 'dra ba'i phyir ni sreg pa mthar ni gzhan zhes gzhan las bstan to //	me_0 dang_3 'dra_8 ba_13 phyir_18 ni_24 sreg_27 ba_32 mthar_35 ni_41 gzhan_44 zhes_50 gzhan_55 las_61 ston_65 to_71 
+T02D1970:114b-13	ji ltar smos she na phat aa mu kam m'a ra ya phat ces so //	ji_0 ltar_3 smos_8 she_13 na_17 phat_20 aa_25 mu_28 kam_31 m_35 ra_39 ya_42 phat_45 ces_50 so_54 
+T02D1970:114b-14	rgyud gzhan las ta dang pha'i bar du ming bcug	brgyud_0 gzhan_6 las_12 ta_16 dang_19 pha_24 ba_30 du_34 ming_37 'jug_42 
+T02D1970:114b-15	ste zhes gsungs pa nyid 'dir me gnyis kyi dbus	ste_0 zhes_4 gsungs_9 ba_16 nyid_19 'dir_24 me_29 gnyis_32 kyi_38 dbus_42 
+T02D1970:114b-16	su bsgrub bya'i ming smos pa'o zhes gzhan kha cig	su_0 sgrub_3 byed_10 ming_16 smos_21 ba_26 zhes_31 gzhan_36 kha_42 cig_46 
+T02D1970:114b-17	'dod do // yi ge bcu pas de bskor la zhes bya ba ni /	'dod_0 do_5 yi_11 ge_14 'chu_17 ba_21 de_25 skor_28 la_34 zhes_37 byed_42 ba_46 ni_49 
+T02D1970:114b-18	aom hr'i: zhes bya ba la sogs pa yang re'u	aom_0 hr:_4 zhes_10 byed_15 ba_19 la_22 sogs_25 ba_30 yang_33 re_38 
+T02D1970:114b-19	mig bcu drug pa'i rim pa de la dgod pa'o	mig_0 'chu_4 drug_8 ba_13 rim_18 ba_22 de_25 la_28 'god_31 ba_36 
+T02D1970:114b-20	// 'di skad bstan te /	'di_3 skad_7 ston_12 te_18 
+T02D1970:114b-21	lho nas brtsam pa'i re'u mig brgyad par du dor ba la /	lho_0 nas_4 brtsam_8 ba_15 re_20 mig_25 brgyad_29 ba_36 du_40 'dor_43 ba_47 la_50 
+T02D1970:114b-22	aom hr'i: shtri: wi kri zhes pa lnga dang /	aom_0 hr:_4 shtri:_10 wi_17 kri_20 zhes_24 ba_29 lnga_32 dang_37 
+T02D1970:114b-23	t'a na na zhes pa gsum gcig la gzhag pa dang /	t_0 na_4 na_7 zhes_10 ba_15 gsum_18 gcig_23 la_28 'jog_31 ba_37 dang_40 
+T02D1970:114b-24	h'um zhes pa dang /	h_0 zhes_5 ba_10 dang_13 
+T02D1970:114b-25	phat ces pa bris te /	phat_0 ces_5 ba_9 'bri_12 te_17 
+T02D1970:114b-26	bar bar du dor ba brgyad la snga ma rnams bri'o //	ba_0 ba_4 du_8 'dor_11 ba_15 brgyad_18 la_25 snga_28 ma_33 rnams_36 'bri_42 
+T02D1970:114b-27	de nas bar ma'i re'u mig bcu gnyis dang /	de_0 nas_3 ba_7 ma_11 re_16 mig_21 'chu_25 gnyis_29 dang_35 
+T02D1970:114b-28	dbus kyi re'u mig lnga la yi ge bcu bdun bris te /	dbus_0 kyi_5 re_9 mig_14 lnga_18 la_23 yi_26 ge_29 'chu_32 bdun_36 'bri_41 te_46 
+T02D1970:114b-29	dbus su yi ge ya'o //	dbus_0 su_5 yi_8 ge_11 ya_14 
+T02D1970:114b-30	lhor ni ma'i yi ge'o //	lhor_0 ni_5 ma_8 yi_13 ge_16 
+T02D1970:114b-31	nub tu yi ge me'o //	nub_0 tu_4 yi_7 ge_10 me_13 
+T02D1970:114b-32	byang du ni yi ge da'o //	byang_0 du_6 ni_9 yi_12 ge_15 da_18 
+T02D1970:114b-33	shar du ni yi ge kshe'o //	'char_0 du_5 ni_8 yi_11 ge_14 kshe_17 
+T02D1970:114b-34	ma dang 'brel ba'i re'u mig par ma nas bsams te /	ma_0 dang_3 'brel_8 ba_14 re_19 mig_24 ba_28 ma_32 nas_35 bsams_39 te_45 
+T02D1970:114b-35	ra dza sa do //	ra_0 dza_3 sa_7 do_10 
+T02D1970:114b-36	ru na yo ni /	ru_0 na_3 yo_6 ni_9 
+T02D1970:114b-37	ra yatstsha ni zhes bya ba rnams bri'o //	ra_0 yatstsha_3 ni_12 zhes_15 byed_20 ba_24 rnams_27 'bri_33 
+T02D1970:114b-38	de ltar dbus su re'u mig cha bzhi mtshams su	de_0 ltar_3 dbus_8 su_13 re_16 mig_21 cha_25 bzhi_29 mtshams_34 su_42 
+T02D1970:114b-39	gnas pa de dag la ci zhig bri bar bya	gnas_0 ba_5 de_8 'dag_11 la_15 ci_18 'jig_21 'bri_26 ba_30 byed_34 
+T02D1970:114b-40	zhe na / de'i phyir yi ge h'um brgyad bri'o zhes bya ba gsungs te /	zhe_0 na_4 de_9 phyir_14 yi_20 ge_23 h_26 brgyad_31 'bri_38 zhes_44 byed_49 ba_53 gsungs_56 te_63 
+T02D1970:114b-41	'di ltar mtshams re rer /	'di_0 ltar_4 mtshams_9 re_17 rer_20 
+T02D1970:114b-42	h'um aa mu kam m'a ra ya h'um zhes bris	h_0 aa_5 mu_8 kam_11 m_15 ra_19 ya_22 h_25 zhes_30 'bri_35 
+T02D1970:114b-43	pas ni h'um brgyad du 'gyur te ji skad du	ba_0 ni_4 h_7 brgyad_12 du_19 'gyur_22 te_28 ji_31 skad_34 du_39 
+T02D1970:114b-44	/ bsgrub par bya ba'i ming bzung ste //	sgrub_2 ba_9 byed_13 ba_17 ming_22 bzung_27 ste_33 
+T02D1970:114b-45	h'um gnyis dang ni spel nas su //	h_0 gnyis_5 dang_11 ni_16 spel_19 nas_24 su_28 
+T02D1970:114b-46	phyogs bral stong par gzung byas te //	phyogs_0 'bral_7 stong_12 ba_18 gzung_22 byed_28 te_33 
+T02D1970:114b-47	dgos pa thams cad 'grub par byed /	dgos_0 ba_5 thams_8 cad_14 'grub_18 ba_24 byed_28 
+T02D1970:114b-48	ces gsungs pa lta bu'o //	ces_0 gsungs_4 ba_11 lta_14 bu_18 
+T02D1970:114b-49	lhag ma phyi rol dbyangs dang gsal byed bskor ba dang /	lhag_0 ma_5 phyi_8 rol_13 dbyangs_17 dang_25 gsal_30 byed_35 skor_40 ba_46 dang_49 
+T02D1970:114b-50	gshin rje'i lte bar gzhag pa la sogs pa ni /	gshin_0 rje_6 lte_12 ba_16 'jog_20 ba_26 la_29 sogs_32 ba_37 ni_40 
+T02D1970:115a-0	'di nyid cha mthun pa'i rgyud las @115a * //	'di_0 nyid_4 cha_9 mthun_13 ba_19 brgyud_24 las_30 
+T02D1970:115a-1	shes par bya'o zhes lngar smos so //	shes_0 ba_5 byed_9 zhes_15 lngar_20 smos_26 so_31 
+T02D1970:115a-2	tsha ba'i mar khu zhes bya ba ni /	tsha_0 ba_5 mar_10 khu_14 zhes_18 byed_23 ba_27 ni_30 
+T02D1970:115a-3	ske tshe'i mar khu'am yungs mar ro //	ske_0 tshe_4 mar_11 khu_15 yungs_22 mar_28 ro_32 
+T02D1970:115a-4	thod pa gnyis zhes bya ba ni dum bu bzhi ba ste /	thod_0 ba_5 gnyis_8 zhes_14 byed_19 ba_23 ni_26 dum_29 bu_33 bzhi_36 ba_41 ste_44 
+T02D1970:115a-5	gsum pa yang mang ngo //	gsum_0 ba_5 yang_8 mang_13 ngo_18 
+T02D1970:115a-6	bsros la zhes bya ba ni pu ta ling+ga'i snying ga'i 'khrul 'khor dros pa tsam du ste /	bsros_0 la_6 zhes_9 byed_14 ba_18 ni_21 pu_24 ta_27 ling_30 ga_35 snying_40 ga_47 'khrul_52 'khor_59 dro_65 ba_70 tsam_73 du_78 ste_81 
+T02D1970:115a-7	'dis dgra bo tsha ba'i rims kyis btab nas 'chi bar 'gyur te /	'dis_0 dgra_5 'bo_10 tsha_13 ba_18 rims_23 kyis_28 'debs_33 nas_38 'chi_42 ba_47 'gyur_51 te_57 
+T02D1970:115a-8	rten cing 'brel bar 'byung ba'i mthu'i khyad par bsam gyis mi khyab pa'i phyir ro //	rten_0 cing_5 'brel_10 ba_16 'byung_20 ba_27 mthu_32 khyad_39 ba_45 bsam_49 gyis_54 mi_59 khyab_62 ba_68 phyir_73 ro_79 
+T02D1970:115a-9	yi ge bcu ba'i gsang sngags bzlas nas zhes bya ba ni /	yi_0 ge_3 'chu_6 ba_10 gsang_15 sngags_21 bzlas_28 nas_34 zhes_38 byed_43 ba_47 ni_50 
+T02D1970:115a-10	yi ge sum cu rtsa gnyis zlos pa dgag pa'i phyir smos pa ste /	yi_0 ge_3 sum_6 cu_10 rtsa_13 gnyis_18 zlos_24 ba_29 'gog_32 ba_37 phyir_42 smos_48 ba_53 ste_56 
+T02D1970:115a-11	de ni bsnyen pa byas la 'khrul 'khor 'dri ba'i	de_0 ni_3 snyen_6 ba_13 byed_16 la_21 'khrul_24 'khor_31 'bri_37 ba_42 
+T02D1970:115a-12	tshe bzlas par bya'i gzhan du ma yin pas so	tshe_0 bzlas_5 ba_11 byed_15 gzhan_21 du_27 ma_30 yin_33 ba_37 so_41 
+T02D1970:115a-13	// dur khrod kyi me la bsros na zhes bya ba ni dro ba tsam ste /	dur_3 khrod_7 kyi_13 me_17 la_20 bsros_23 na_29 zhes_32 byed_37 ba_41 ni_44 dro_47 ba_51 tsam_54 ste_59 
+T02D1970:115a-14	aa mu ka dzra ra bud pa da ya zhes bskul pa smos te bzlas so //	aa_0 mu_3 ka_6 dzra_9 ra_14 'bud_17 ba_21 da_24 ya_27 zhes_30 skul_35 ba_41 smos_44 te_49 bzlas_52 so_58 
+T02D1970:115a-15	yi ge sum cu rtsa gnyis pa'i sngags smos shing	yi_0 ge_3 sum_6 cu_10 rtsa_13 gnyis_18 ba_24 sngags_29 smos_36 shing_41 
+T02D1970:115a-16	zhes bya ba ni sngar 'khrul 'khor la rtsa ba'i	zhes_0 byed_5 ba_9 ni_12 sngar_15 'khrul_21 'khor_28 la_34 rtsa_37 ba_42 
+T02D1970:115a-17	sngags bkod pa ma gsungs pas de bstan pa'o //	sngags_0 bkod_7 ba_12 ma_15 gsungs_18 ba_25 de_29 ston_32 ba_38 
+T02D1970:115a-18	yi ge bcu pa'i gsang sngags dang yang bsgrub bya'i	yi_0 ge_3 'chu_6 ba_10 gsang_15 sngags_21 dang_28 yang_33 sgrub_38 byed_45 
+T02D1970:115a-19	ming lhan cig smos te zhes bya ba ni sngar	ming_0 lhan_5 cig_10 smos_14 te_19 zhes_22 byed_27 ba_31 ni_34 sngar_37 
+T02D1970:115a-20	ji skad bstan pa'i bskul ba smos pas chog par	ji_0 skad_3 ston_8 ba_14 skul_19 ba_25 smos_28 ba_33 chog_37 ba_42 
+T02D1970:115a-21	rtog pa las dgag ste /	rtogs_0 ba_5 las_8 'gog_12 ste_17 
+T02D1970:115a-22	h'um dang phat kyi dbus su yang de bri'o //	h_0 dang_5 phat_10 kyi_15 dbus_19 su_24 yang_27 de_32 'bri_35 
+T02D1970:115a-23	de bas na sngar bstan pa las khyad par cung zad ni de yin no //	de_0 ba_3 na_7 sngar_10 ston_16 ba_22 las_25 khyad_29 ba_35 cung_39 zad_44 ni_48 de_51 yin_54 no_58 
+T02D1970:115a-24	sbas na zhes bya ba ni dong khru bzhi ba'i gting du'o //	sbed_0 na_5 zhes_8 byed_13 ba_17 ni_20 'dong_23 khru_28 bzhi_33 ba_38 gting_43 du_49 
+T02D1970:115a-25	gol bar 'gyur ro zhes bya ba ni thams cad do //	gol_0 ba_4 'gyur_8 ro_14 zhes_17 byed_22 ba_26 ni_29 thams_32 cad_38 do_42 
+T02D1970:115a-26	gnas lngar zhes bya ba ni /	gnas_0 lngar_5 zhes_11 byed_16 ba_20 ni_23 
+T02D1970:115a-27	rdo rje yi ni phur bu yis //	rdo_0 rje_4 yi_8 ni_11 'phur_14 bu_19 yis_22 
+T02D1970:115a-28	gzugs brnyan gyi ni gnas lnga po //	gzugs_0 rnyan_6 gyi_13 ni_17 gnas_20 lnga_25 po_30 
+T02D1970:115a-29	dpral ba mgrin pa snying ga dang //	dpral_0 ba_6 mgrin_9 ba_15 snying_18 ga_25 dang_28 
+T02D1970:115a-30	de bzhin dpung pa gnyis su gdab //	de_0 bzhin_3 dpung_9 ba_15 gnyis_18 su_24 gdab_27 
+T02D1970:115a-31	ces gsungs pa'o //	ces_0 gsungs_4 ba_11 
+T02D1970:115a-32	gshin rje'i gzugs zhes bya ba ni tshar bcad pa thams cad la'o //	gshin_0 rje_6 gzugs_12 zhes_18 byed_23 ba_27 ni_30 tshar_33 gcod_39 ba_44 thams_47 cad_53 la_57 
+T02D1970:115a-33	khyim du yang ni 'ongs nas zhes bya ba la	khyim_0 du_6 yang_9 ni_14 'ongs_17 nas_23 zhes_27 byed_32 ba_36 la_39 
+T02D1970:115a-34	sogs pas ni legs par ma byas pa'i rnal 'byor	sogs_0 ba_5 ni_9 legs_12 ba_17 ma_21 byed_24 ba_29 rnal_34 'byor_39 
+T02D1970:115a-35	ba yis so // tshu tshun da ra'i pags pa zhes bya ba ni gsob bshus pa'o //	ba_0 yis_3 so_7 tshu_13 tshun_18 da_24 ra_27 pags_32 ba_37 zhes_40 byed_45 ba_49 ni_52 gsob_55 bshus_60 ba_66 
+T02D1970:115a-36	yi ge bcu ba'i gsang sngags zhes pa ni 'khrul 'khor nye bar mtshon pa'o //	yi_0 ge_3 'chu_6 ba_10 gsang_15 sngags_21 zhes_28 ba_33 ni_36 'khrul_39 'khor_46 nye_52 ba_56 mtshon_60 ba_67 
+T02D1970:115a-37	sa blangs pas dgang zhing zhes bya ba ni pu ta ling+ga dang /	sa_0 blangs_3 ba_10 'geng_14 zhing_20 zhes_26 byed_31 ba_35 ni_38 pu_41 ta_44 ling_47 ga_52 dang_55 
+T02D1970:115a-38	sas dgang ba'o //	sas_0 'geng_4 ba_10 
+T02D1970:115a-39	de'i skras bcing ngo zhes bya ba ni /	de_0 skras_5 'ching_11 ngo_17 zhes_21 byed_26 ba_30 ni_33 
+T02D1970:115a-40	pags pa grul ba dang /	pags_0 ba_5 grul_8 ba_13 dang_16 
+T02D1970:115a-41	yan lag dang ro smad kyi cha'o //	yan_0 lag_4 dang_8 ro_13 smad_16 kyi_21 cha_25 
+T02D1970:115a-42	de nas bong bu'i chu ngan dang /	de_0 nas_3 bong_7 bu_12 chu_17 ngan_21 dang_26 
+T02D1970:115b-0	dri chen du sbyar te zhes bya @115b ba ni ;	'dri_0 chen_4 du_9 sbyor_12 te_18 zhes_21 byed_26 ba_36 ni_39 
+T02D1970:115b-1	ji ltar rjes su gzung ba'i 'khrul 'khor la mar dang sbrang rtsi lta bu ste /	ji_0 ltar_3 rjes_8 su_13 gzung_16 ba_22 'khrul_27 'khor_34 la_40 mar_43 dang_47 sbrang_52 rtsi_59 lta_64 bu_68 ste_71 
+T02D1970:115b-2	tshar gcad pa'i ri lu'o //	tshar_0 gcod_6 ba_11 ri_16 lu_19 
+T02D1970:115b-3	kham phor bzhag la zhes bya ba ni thod pa gnyis ka la des glan te /	kham_0 phor_5 'jog_10 la_16 zhes_19 byed_24 ba_28 ni_31 thod_34 ba_39 gnyis_42 ka_48 la_51 des_54 glan_58 te_63 
+T02D1970:115b-4	pu ta ling+ga mi 'gyur bar dgang ngo /	pu_0 ta_3 ling_6 ga_11 mi_14 'gyur_17 ba_23 'geng_27 ngo_33 
+T02D1970:115b-5	der sbyor ba de bzhag nas zhes bya ba ni pags pa de'o //	der_0 sbyor_4 ba_10 de_13 'jog_16 nas_22 zhes_26 byed_31 ba_35 ni_38 pags_41 ba_46 de_49 
+T02D1970:115b-6	de gnyis kyi snying gar gsang sngags bcug nas zhes	de_0 gnyis_3 kyi_9 snying_13 gar_20 gsang_24 sngags_30 'jug_37 nas_42 zhes_46 
+T02D1970:115b-7	bya ba ni 'khrul 'khor can gyi pu ta ling+ga	byed_0 ba_4 ni_7 'khrul_10 'khor_17 can_23 gyi_27 pu_31 ta_34 ling_37 ga_42 
+T02D1970:115b-8	gcig gi steng du gcig bzhag nas zhes bya ba	gcig_0 gi_5 steng_8 du_14 gcig_17 'jog_22 nas_28 zhes_32 byed_37 ba_41 
+T02D1970:115b-9	ni gang yang rlung ba'i steng du gzhag go //	ni_0 gang_3 yang_8 rlung_13 ba_19 steng_24 du_30 'jog_33 go_39 
+T02D1970:115b-10	yang na 'thab pa ltar gcig gi steng du gcig 'gro bar spro bar bya'o //	yang_0 na_5 'thab_8 ba_14 ltar_17 gcig_22 gi_27 steng_30 du_36 gcig_39 'gro_44 ba_49 spro_53 ba_58 byed_62 
+T02D1970:115b-11	gzhan gshin rje'i skyes bu zhes bya ba ni yi ge ya las 'byung ngo //	gzhan_0 gshin_6 rje_12 skye_18 bu_24 zhes_27 byed_32 ba_36 ni_39 yi_42 ge_45 ya_48 las_51 'byung_55 ngo_62 
+T02D1970:115b-12	sbyor ba gzhan yang zhes bya ba ni 'khrul 'khor las gzhan pa'i sbyor ba ste /	sbyor_0 ba_6 gzhan_9 yang_15 zhes_20 byed_25 ba_29 ni_32 'khrul_35 'khor_42 las_48 gzhan_52 ba_58 sbyor_63 ba_69 ste_72 
+T02D1970:115b-13	zhar la bstan pa tsam yin gyi 'di gtsor ma gyur pas so //	zhar_0 la_5 ston_8 ba_14 tsam_17 yin_22 gyi_26 'di_30 gtsor_34 ma_40 gyur_43 ba_48 so_52 
+T02D1970:115b-14	gro ga'i shun pa la zhes bya ba la sogs pa ni 'khrul 'khor gyi sbyor ba ste /	gro_0 ga_4 shun_9 ba_14 la_17 zhes_20 byed_25 ba_29 la_32 sogs_35 ba_40 ni_43 'khrul_46 'khor_53 gyi_59 sbyor_63 ba_69 ste_72 
+T02D1970:115b-15	kha cig ni 'di yang sbyor ba gzhan du rtog go //	kha_0 cig_4 ni_8 'di_11 yang_15 sbyor_20 ba_26 gzhan_29 du_35 rtogs_38 go_43 
+T02D1970:115b-16	'dir sbyor ba gzhan ni zhes pa'i sgras ni 'khrul 'khor 'gegs kyi don las so //	'dir_0 sbyor_5 ba_11 gzhan_14 ni_20 zhes_23 ba_28 sgras_33 ni_39 'khrul_42 'khor_49 'gegs_55 kyi_61 don_65 las_69 so_73 
+T02D1970:115b-17	gzhan dag 'dir 'khrul 'khor dang bral ba'i sbyor ba dang las /	gzhan_0 'dag_6 'dir_10 'khrul_15 'khor_22 dang_28 'bral_33 ba_38 sbyor_43 ba_49 dang_52 las_57 
+T02D1970:115b-18	yang rjes la 'khrul 'khor mnan la /	yang_0 rjes_5 la_10 'khrul_13 'khor_20 gnon_26 la_31 
+T02D1970:115b-19	de'i grogs su de dag gis sbyor gyi /	de_0 grogs_5 su_11 de_14 'dag_17 gis_21 sbyor_25 gyi_31 
+T02D1970:115b-20	gzhan dun skabs ma yi par ga la 'byung zhes 'dod do //	gzhan_0 dun_6 skabs_10 ma_16 yi_19 ba_22 ga_26 la_29 'byung_32 zhes_39 'dod_44 do_49 
+T02D1970:115b-21	rgyal mtshan gyi ras la zhes bya ba la sogs	rgyal_0 mtshan_6 gyi_13 ras_17 la_21 zhes_24 byed_29 ba_33 la_36 sogs_39 
+T02D1970:115b-22	pa'i sbyor ba 'di ni smyo bar 'gyur ba'i bskang	ba_0 sbyor_5 ba_11 'di_14 ni_18 smyo_21 ba_26 'gyur_30 ba_36 skong_41 
+T02D1970:115b-23	pa'i sbyor ba'o // me tog dmar pos mchod cing	ba_0 sbyor_5 ba_11 me_19 tog_22 dmar_26 pos_31 mchod_35 cing_41 
+T02D1970:115b-24	zhes bya ba 'di dpal rdo rje 'jigs byed nyid	zhes_0 byed_5 ba_9 'di_12 dpal_16 rdo_21 rje_25 'jigs_29 byed_35 nyid_40 
+T02D1970:115b-25	pa'i sbyor ba'o // la ste / me tog ni	ba_0 sbyor_5 ba_11 la_19 ste_22 me_28 tog_31 ni_35 
+T02D1970:115b-26	nye bar mtshon pa yin pas mchod pa kha dog	nye_0 ba_4 mtshon_8 ba_15 yin_18 ba_22 mchod_26 ba_32 kha_35 dog_39 
+T02D1970:115b-27	dmar po yon chad dang bcas pa dbul lo //	dmar_0 po_5 yon_8 'chad_12 dang_17 'cha'_22 ba_27 'bul_30 lo_35 
+T02D1970:115b-28	kha cig ni 'khrul 'khor mchod par 'dod de de ni mi 'thad de /	kha_0 cig_4 ni_8 'khrul_11 'khor_18 mchod_24 ba_30 'dod_34 de_39 de_42 ni_45 mi_48 'thad_51 de_57 
+T02D1970:115b-29	des don du mi 'gyur ro //	des_0 don_4 du_8 mi_11 'gyur_14 ro_20 
+T02D1970:115b-30	gsang sngags nyid la mchod pas don du 'gyur ba'o zhe na /	gsang_0 sngags_6 nyid_13 la_18 mchod_21 ba_27 don_31 du_35 'gyur_38 ba_44 zhe_49 na_53 
+T02D1970:115b-31	kye ma rgyal po bzhugs bzhin du sna chen po la gtogs pa mchod la lta ga la rigs /	kye_0 ma_4 rgyal_7 po_13 bzhugs_16 bzhin_23 du_29 sna_32 chen_36 po_41 la_44 gtogs_47 ba_53 mchod_56 la_62 lta_65 ga_69 la_72 rigs_75 
+T02D1970:115b-32	de ni mi brjod do //	de_0 ni_3 mi_6 rjod_9 do_15 
+T02D1970:115b-33	seng ldang gi me la bsros na zhes bya ba ni gal te zhag bdun gyis ma byung na /	seng_0 ldang_5 gi_11 me_14 la_17 bsros_20 na_26 zhes_29 byed_34 ba_38 ni_41 gal_44 te_48 zhag_51 bdun_56 gyis_61 ma_66 'byung_69 na_75 
+T02D1970:115b-34	pu ta ling+ga thod pa nas phyung ste bsro'i dang po nas ni ma yin no //	pu_0 ta_3 ling_6 ga_11 thod_14 ba_19 nas_22 'byin_26 ste_33 bsro_37 dang_44 po_49 nas_52 ni_56 ma_59 yin_62 no_66 
+T02D1970:115b-35	zhag bdun gyis 'chi bar 'gyur ro zhes bya ba ni zhag bdun du rdzas smyo ba bzhin na'o //	zhag_0 bdun_5 gyis_10 'chi_15 ba_20 'gyur_24 ro_30 zhes_33 byed_38 ba_42 ni_45 zhag_48 bdun_53 du_58 rdzas_61 smyo_67 ba_72 bzhin_75 na_81 
+T02D1970:115b-36	gzhan kha cig ni gal te slar ma dkrol na'o zhes 'dod de /	gzhan_0 kha_6 cig_10 ni_14 gal_17 te_21 slar_24 ma_29 'khrol_32 na_38 zhes_43 'dod_48 de_53 
+T02D1970:116a-0	'di ni thang phrom dang sbyar ba'i mu @116a * //	'di_0 ni_4 thang_7 phrom_13 dang_19 sbyor_24 ba_30 mu_35 
+T02D1970:116a-1	zis dril lo //	zis_0 'dril_4 lo_9 
+T02D1970:116a-2	sbyin sreg byas na zhes bya ba ni rlung gi me'i dbus su bzhugs pa'i bcom ldan 'das la'o //	sbyin_0 sreg_6 byed_11 na_16 zhes_19 byed_24 ba_28 ni_31 rlung_34 gi_40 me_43 dbus_48 su_53 bzhugs_56 ba_63 'joms_68 ldan_73 'da'_78 la_83 
+T02D1970:116a-3	bya rog dang 'ug pa'i rus pa zhes bya ba ni brla'am rje ngar gyi rkang ngo //	byed_0 rog_4 dang_8 'ug_13 ba_17 rus_22 ba_26 zhes_29 byed_34 ba_38 ni_41 brla_44 rje_52 ngar_56 gyi_61 rkang_65 ngo_71 
+T02D1970:116a-4	sbal ba'i zhes bya ba ni sbra tshil la bzo byas pa'o //	sbal_0 ba_5 zhes_10 byed_15 ba_19 ni_22 sbra_25 tshil_30 la_36 bzo_39 byed_43 ba_48 
+T02D1970:116a-5	bu mo rmongs par bya ba ni /	bu_0 mo_3 rmongs_6 ba_13 byed_17 ba_21 ni_24 
+T02D1970:116a-6	myos par bya bas ci dgar longs spyad par bya ba'i phyir ro //	myos_0 ba_5 byed_9 ba_13 ci_17 dgar_20 longs_25 spyod_31 ba_37 byed_41 ba_45 phyir_50 ro_56 
+T02D1970:116a-7	smra bar mi bya ste zhes bya ba la sogs	smra_0 ba_5 mi_9 byed_12 ste_16 zhes_20 byed_25 ba_29 la_32 sogs_35 
+T02D1970:116a-8	pa ni byis pa'i rang bzhin can de dag gis	ba_0 ni_3 byis_6 ba_11 rang_16 bzhin_21 can_27 de_31 'dag_34 gis_38 
+T02D1970:116a-9	shes nas thub pa chen po'i dgongs pa ci yin	shes_0 nas_5 thub_9 ba_14 chen_17 po_22 dgongs_27 ba_34 ci_37 yin_40 
+T02D1970:116a-10	pa mi shes par ldang ba las de dag byed	ba_0 mi_3 shes_6 ba_11 ldang_15 ba_21 las_24 de_28 'dag_31 byed_35 
+T02D1970:116a-11	par 'gyur ba de dmyal bar ltung ste /	ba_0 'gyur_4 ba_10 de_13 dmyal_16 ba_22 ltung_26 ste_32 
+T02D1970:116a-12	zhu ba'i rting la za ba ni /	'ju_0 ba_4 rting_9 la_15 za_18 ba_21 ni_24 
+T02D1970:116a-13	mar gyi snying khu sbrang rtsi dang //	mar_0 gyi_4 snying_8 khu_15 sbrang_19 rtsi_26 dang_31 
+T02D1970:116a-14	kha ra rnams ni bdud rtsi'i bzhin //	kha_0 ra_4 rnams_7 ni_13 bdud_16 rtsi_21 bzhin_28 
+T02D1970:116a-15	ma zhu zas ni dug 'gyur ro //	ma_0 'ju_3 zas_7 ni_11 dug_14 'gyur_18 ro_24 
+T02D1970:116a-16	de bzhin rab rgyas bdud rtsi'i chos //	de_0 bzhin_3 rab_9 rgya_13 bdud_19 rtsi_24 chos_31 
+T02D1970:116a-17	dgongs pa'i tshig la mi mkhas shing //	dgongs_0 ba_7 tshig_12 la_18 mi_21 mkhas_24 shing_30 
+T02D1970:116a-18	byis pa'i blo dang ldan rnams la //	byis_0 ba_5 blo_10 dang_14 ldan_19 rnams_24 la_30 
+T02D1970:116a-19	mi bzad pa yi dug tu 'gyur //	mi_0 bzad_3 ba_8 yi_11 dug_14 tu_18 'gyur_21 
+T02D1970:116a-20	zhes gsungs so //	zhes_0 gsungs_5 so_12 
+T02D1970:116a-21	'o na 'di las dgongs pa gang zhe na /	'o_0 na_3 'di_6 las_10 dgongs_14 ba_21 gang_24 zhe_29 na_33 
+T02D1970:116a-22	de'i phyir /	de_0 phyir_5 
+T02D1970:116a-23	dkon mchog gsum la gnas byed dang //	dkon(d)_0 mchog_5 gsum_11 la_16 gnas_19 byed_24 dang_29 
+T02D1970:116a-24	zhes bya ba la sogs pa rgyas par gsungs so //	zhes_0 byed_5 ba_9 la_12 sogs_15 ba_20 rgya_23 ba_29 gsungs_33 so_40 
+T02D1970:116a-25	le'u gnyis pa'i bshad pa'o /	le_0 gnyis_5 ba_11 'chad_16 ba_22 
+T02D1970:116a-27	// / gtsang ma'i gnas zhes bya ba ni dben pa ste /	gtsang_5 ma_12 gnas_17 zhes_22 byed_27 ba_31 ni_34 dben_37 ba_42 ste_45 
+T02D1970:116a-28	cis kyang dben pa ni nges par ches gtsang bas so //	cis_0 kyang_4 dben_10 ba_15 ni_18 nges_21 ba_26 ches_30 gtsang_35 ba_42 so_46 
+T02D1970:116a-29	gsang sngags btu ba zhes bya ba nis 'thas pa	gsang_0 sngags_6 'thu_13 ba_17 zhes_20 byed_25 ba_29 nis_32 'thas_36 ba_42 
+T02D1970:116a-30	skyang nul byas la kha ti khas las dang por	skyang_0 nul_7 byed_11 la_16 kha_19 ti_23 khas_26 las_31 dang_35 por_40 
+T02D1970:116a-31	gzhi'i yi ge go gnyis par bris la dag pa	gzhi_0 yi_7 ge_10 go_13 gnyis_16 ba_22 'bri_26 la_31 'dag_34 ba_38 
+T02D1970:116a-32	na dbyangs rnams sbyin zhing /	na_0 dbyangs_3 rnams_11 sbyin_17 zhing_23 
+T02D1970:116a-33	de nas dag pa na bri ba'am bzlas pa bya'o //	de_0 nas_3 'dag_7 ba_11 na_14 'bri_17 ba_21 bzlas_27 ba_33 byed_36 
+T02D1970:116a-34	'bum phrag gcig ces bya ba ni shin tu mnyam par gzhag pas so //	'bum_0 phrag_5 gcig_11 ces_16 byed_20 ba_24 ni_27 shin_30 tu_35 mnyam_38 ba_44 'jog_48 ba_54 so_58 
+T02D1970:116a-35	las kyi sngags zhes bya bas ni las rab 'byam la rab tu bsngags pa'i phyir dang /	las_0 kyi_4 sngags_8 zhes_15 byed_20 ba_24 ni_28 las_31 rab_35 'byam_39 la_45 rab_48 tu_52 bsngags_55 ba_63 phyir_68 dang_74 
+T02D1970:116a-36	'khrul 'khor yang 'dis rdzogs par byed pas so //	'khrul_0 'khor_7 yang_13 'dis_18 rdzogs_23 ba_30 byed_34 ba_39 so_43 
+T02D1970:116a-37	'bum phrag gsum zhes bya ba ni sngags pa bar ma'i phyir bstan pa'o //	'bum_0 phrag_5 gsum_11 zhes_16 byed_21 ba_25 ni_28 sngags_31 ba_38 ba_41 ma_45 phyir_50 ston_56 ba_62 
+T02D1970:116a-38	snying po'i gsang sngags zhes bya ba ni phal cher	snying_0 po_7 gsang_12 sngags_18 zhes_25 byed_30 ba_34 ni_37 phal_40 cher_45 
+T02D1970:116a-39	bsgom pa la dga' ba'i rnal 'byor ba la bstan	bsgom_0 ba_6 la_9 dga'_12 ba_17 rnal_22 'byor_27 ba_33 la_36 ston_39 
+T02D1970:116a-40	pa yin pas na /	ba_0 yin_3 ba_7 na_11 
+T02D1970:116a-41	'di ni zlos pa pos ni nges par snying gar	'di_0 ni_4 zlos_7 ba_12 pos_15 ni_19 nges_22 ba_27 snying_31 gar_38 
+T02D1970:116a-42	bsgom par bya bas na snying po zhes bya ste	bsgom_0 ba_6 byed_10 ba_14 na_18 snying_21 po_28 zhes_31 byed_36 ste_40 
+T02D1970:116a-43	/ gsang sngags rnams ni bzlas pas kyang bya ba de byed srid kyi /	gsang_2 sngags_8 rnams_15 ni_21 bzlas_24 ba_30 kyang_34 byed_40 ba_44 de_47 byed_50 srid_55 kyi_60 
+T02D1970:116a-44	snying pa rnams ni nges par bsgom pas don de rdzogs par bya ba yin te /	snying_0 ba_7 rnams_10 ni_16 nges_19 ba_24 bsgom_28 ba_34 don_38 de_42 rdzogs_45 ba_52 byed_56 ba_60 yin_63 te_67 
+T02D1970:116a-45	de nas snying po shes par ting nge 'dzin //	de_0 nas_3 snying_7 po_14 shes_17 ba_22 ting_26 nge_31 'dzin_35 
+T02D1970:116b-0	gang du mtshungs par ldan @116b pa'i sems //	gang_0 du_5 mtshungs_8 ba_17 ldan_21 ba_32 sems_37 
+T02D1970:116b-1	zhes bshad do //	zhes_0 'chad_5 do_11 
+T02D1970:116b-2	yi ge 'bum zhes bya ba la yi ge ni snying po'i yi ge'o //	yi_0 ge_3 'bum_6 zhes_11 byed_16 ba_20 la_23 yi_26 ge_29 ni_32 snying_35 po_42 yi_47 ge_50 
+T02D1970:116b-3	'bum zhes bya ba ni le lo can rnams gzhug pa'i phyir ro //	'bum_0 zhes_5 byed_10 ba_14 ni_17 le_20 lo_23 can_26 rnams_30 'jug_36 ba_42 phyir_47 ro_53 
+T02D1970:116b-4	yang na yi ge 'bru ji snyed pa de snyed kyi 'bum phrag ste /	yang_0 na_5 yi_8 ge_11 'bru_14 ji_19 snyed_22 ba_28 de_31 snyed_34 kyi_40 'bum_44 phrag_49 ste_55 
+T02D1970:116b-5	mkhas pas gsang sngags yi ge ni //	mkhas_0 ba_6 gsang_10 sngags_16 yi_23 ge_26 ni_29 
+T02D1970:116b-6	bco lnga man chad grangs rnams la //	'chos_0 lnga_4 man_9 'chad_13 grangs_18 rnams_25 la_31 
+T02D1970:116b-7	yi ge'i sdom ni ji snyed pa //	yi_0 ge_3 sdom_8 ni_13 ji_16 snyed_19 ba_25 
+T02D1970:116b-8	de snyed 'bum phrag bzlas brjod bya //	de_0 snyed_3 'bum_9 phrag_14 bzlas_20 rjod_26 byed_32 
+T02D1970:116b-9	zhes gsungs pas so //	zhes_0 gsungs_5 ba_12 so_16 
+T02D1970:116b-10	gzhan kha cig ni 'di ni bsgom pa byang bar byas pas /	gzhan_0 kha_6 cig_10 ni_14 'di_17 ni_21 bsgom_24 ba_30 byang_33 ba_39 byed_43 ba_48 
+T02D1970:116b-11	sgra ji bzhin pa'i bzlas par brjod do //	sgra_0 ji_5 bzhin_8 ba_14 bzlas_19 ba_25 rjod_29 do_35 
+T02D1970:116b-12	las de dang de dag ces bya ba la sogs	las_0 de_4 dang_7 de_12 'dag_15 ces_19 byed_23 ba_27 la_30 sogs_33 
+T02D1970:116b-13	pa ni 'di ni las kyi sngags kyi gor sbyar	ba_0 ni_3 'di_6 ni_10 las_13 kyi_17 sngags_21 kyi_28 gor_32 sbyor_36 
+T02D1970:116b-14	du rung bar ston pa'o ;	du_0 rung_3 ba_8 ston_12 ba_17 
+T02D1970:116b-15	/ on kyang 'khrul 'khor ni ma yin no //	kyang_5 'khrul_11 'khor_18 ni_24 ma_27 yin_30 no_34 
+T02D1970:116b-16	legs par mnyam par gzhag pa zhes bya ba la sogs pa ni /	legs_0 ba_5 mnyam_9 ba_15 'jog_19 ba_25 zhes_28 byed_33 ba_37 la_40 sogs_43 ba_48 ni_51 
+T02D1970:116b-17	ji ltar ral gri 'dzin pa'i mi dag gis //	ji_0 ltar_3 ral_8 gri_12 'dzin_16 ba_22 mi_27 'dag_30 gis_34 
+T02D1970:116b-18	legs par ma bzung lag pa 'chad par 'gyur //	legs_0 ba_5 ma_9 bzung_12 lag_18 ba_22 'chad_25 ba_31 'gyur_35 
+T02D1970:116b-19	de bzhin sngags kyang legs par ma bzlas na //	de_0 bzhin_3 sngags_9 kyang_16 legs_22 ba_27 ma_31 bzlas_34 na_40 
+T02D1970:116b-20	'bras bu med dam yang na ma rungs 'gyur //	'bras_0 bu_6 med_9 dam_13 yang_17 na_22 ma_25 rungs_28 'gyur_34 
+T02D1970:116b-21	zhes gsungs pa'i gnas skabs spang pa'i phyir /	zhes_0 gsungs_5 ba_12 gnas_17 skabs_22 spong_28 ba_34 phyir_39 
+T02D1970:116b-22	yi ge btu ba rtsom na /	yi_0 ge_3 'thu_6 ba_10 rtsom_13 na_19 
+T02D1970:116b-23	de'i tshe sems gzhan du byed pa ni /	de_0 tshe_5 sems_10 gzhan_15 du_21 byed_24 ba_29 ni_32 
+T02D1970:116b-24	rab tu smad de /	rab_0 tu_4 smad_7 de_12 
+T02D1970:116b-25	khrus byed pa de yang bshang gci byed pa bzhin du de dgag pa'i phyir ro //	'khru_0 byed_6 ba_11 de_14 yang_17 bshang_22 gci_29 byed_33 ba_38 bzhin_41 du_47 de_50 'gog_53 ba_58 phyir_63 ro_69 
+T02D1970:116b-26	le'u gsum pa'i bshad pa'o /	le_0 gsum_5 ba_10 'chad_15 ba_21 
+T02D1970:116b-28	// / chos kun bdag med sngon byas nas //	chos_5 kun_10 bdag_14 med_19 sngon_23 byed_29 nas_34 
+T02D1970:116b-29	zhes bya ba dang /	zhes_0 byed_5 ba_9 dang_12 
+T02D1970:116b-30	lha yi dmigs pa bya ba'o //	lha_0 yi_4 dmigs_7 ba_13 byed_16 ba_20 
+T02D1970:116b-31	zhes bya ba ni mdor bstan pa ste /	zhes_0 byed_5 ba_9 ni_12 mdor_15 ston_20 ba_26 ste_29 
+T02D1970:116b-32	de dag nyid ni dang por re zhig sva bh'a	de_0 'dag_3 nyid_7 ni_12 dang_15 por_20 re_24 'jig_27 sva_32 bh_36 
+T02D1970:116b-33	ba shuddha: zhes bya ba la sogs pa'i gsang sngags	ba_0 shuddha:_3 zhes_12 byed_17 ba_21 la_24 sogs_27 ba_32 gsang_37 sngags_43 
+T02D1970:116b-34	bzlas te zhes bya ba la sogs pas rgyas par	bzlas_0 te_6 zhes_9 byed_14 ba_18 la_21 sogs_24 ba_29 rgya_33 ba_39 
+T02D1970:116b-35	bstan to // chos thams cad ces bya ba ni /	ston_0 to_6 chos_12 thams_17 cad_23 ces_27 byed_31 ba_35 ni_38 
+T02D1970:116b-36	phung po dang /	'phung_0 po_6 dang_9 
+T02D1970:116b-37	khams dang /	khams_0 dang_6 
+T02D1970:116b-38	skye mched do //	skye_0 mched_5 do_11 
+T02D1970:116b-39	de dag bdag med pa'i bdag nyid du byas nas zhes bya ba ni /	de_0 'dag_3 bdag_7 med_12 ba_16 bdag_21 nyid_26 du_31 byed_34 nas_39 zhes_43 byed_48 ba_52 ni_55 
+T02D1970:116b-40	gzung ba dang 'dzin pas dben pa rang bzhin gyis 'od gsal bar 'gyur ba'o //	gzung_0 ba_6 dang_9 'dzin_14 ba_20 dben_24 ba_29 rang_32 bzhin_37 gyis_43 'od_48 gsal_52 ba_57 'gyur_61 ba_67 
+T02D1970:116b-41	de'i 'og tu de nyid nam mkha'i dkyil du yi	de_0 'og_5 tu_9 de_12 nyid_15 nam_20 mkha_24 dkyil_31 du_37 yi_40 
+T02D1970:116b-42	ge yi sngon po las grub pa'i rlung gi dkyil	ge_0 yi_3 sngon_6 po_12 las_15 'grub_19 ba_24 rlung_29 gi_35 dkyil_38 
+T02D1970:116b-43	'khor du ba'i mdog can du bsams te /	'khor_0 du_6 ba_9 mdog_14 can_19 du_23 bsams_26 te_32 
+T02D1970:116b-44	'di ni khro bo chen po'i gdan te /	'di_0 ni_4 khro_7 'bo_12 chen_15 po_20 gdan_25 te_30 
+T02D1970:116b-45	rgyud 'di ni mngon spyod gtso bor byas pa yin pas na /	brgyud_0 'di_6 ni_10 mngon_13 spyod_19 gtso_25 'bor_30 byed_34 ba_39 yin_42 ba_46 na_50 
+T02D1970:116b-46	gdug pa rnams rab tu 'thor bar byed pa yin te /	gdug_0 ba_5 rnams_8 rab_14 tu_18 'thor_21 ba_27 byed_31 ba_36 yin_39 te_43 
+T02D1970:116b-47	pho nya la sogs bran rnams dang //	pho_0 nya_4 la_8 sogs_11 bran_16 rnams_21 dang_27 
+T02D1970:116b-48	khro bo'i ming du gang 'dogs pa //	khro_0 'bo_5 ming_10 du_15 gang_18 'dogs_23 ba_29 
+T02D1970:117a-0	kun du thog med sbyod pa @117a * //	kun_0 du_4 thogs_7 med_12 sbyod_16 ba_22 
+T02D1970:117a-1	rnams //	rnams_0 
+T02D1970:117a-2	kun gyi dkyil 'khor ma dang rlung //	kun_0 gyi_4 dkyil_8 'khor_14 ma_20 dang_23 rlung_28 
+T02D1970:117a-3	zhes gsungs pas so //	zhes_0 gsungs_5 ba_12 so_16 
+T02D1970:117a-4	zla ba'i dkyil 'khor zhes bya ba ni /	zla_0 ba_4 dkyil_9 'khor_15 zhes_21 byed_26 ba_30 ni_33 
+T02D1970:117a-5	'phags pa 'jam pa'i dbyangs kyi gdan te /	'phag_0 ba_7 'jam_10 ba_15 dbyangs_20 kyi_28 gdan_32 te_37 
+T02D1970:117a-6	de ni yongs su bsgyur bar bya ba yin na /	de_0 ni_3 yongs_6 su_12 sgyur_15 ba_22 byed_26 ba_30 yin_33 na_37 
+T02D1970:117a-7	snga ma ni brtan par gnas pa yin no //	snga_0 ma_5 ni_8 brtan_11 ba_17 gnas_21 ba_26 yin_29 no_33 
+T02D1970:117a-8	de'i steng du yi ge dh'i: las zhes bya ba la sogs pa la 'dir dan ni /	de_0 steng_5 du_11 yi_14 ge_17 dh:_20 las_26 zhes_30 byed_35 ba_39 la_42 sogs_45 ba_50 la_53 'dir_56 dan_61 ni_65 
+T02D1970:117a-9	dang por 'jam pa'i dpal de nyid kyis bdag nyid	dang_0 por_5 'jam_9 ba_14 dpal_19 de_24 nyid_27 kyis_32 bdag_37 nyid_42 
+T02D1970:117a-10	kyi zhi ba'i skus ldang ba rnams 'dul pa ma	kyi_0 zhi_4 ba_8 skus_13 ldang_18 ba_24 rnams_27 'dul_33 ba_38 ma_41 
+T02D1970:117a-11	yin par gzigs te /	yin_0 ba_4 gzigs_8 te_14 
+T02D1970:117a-12	thugs kar nyi ma gnas par bya ste /	thugs_0 kar_6 nyi_10 ma_14 gnas_17 ba_22 byed_26 ste_30 
+T02D1970:117a-13	de'i 'od zer gyis sdang ba rnams bsdigs te /	de_0 'od_5 zer_9 gyis_13 sdang_18 ba_24 rnams_27 sdig_33 te_40 
+T02D1970:117a-14	'on kyang rab tu sdang ba dag mi 'dul bar gzigs nas /	'on_0 kyang_4 rab_10 tu_14 sdang_17 ba_23 'dag_26 mi_30 'dul_33 ba_38 gzigs_42 nas_48 
+T02D1970:117a-15	yang bdag nyid dang nyi mar bcas pa /	yang_0 bdag_5 nyid_10 dang_15 nyi_20 mar_24 'cha'_28 ba_33 
+T02D1970:117a-16	rdo rje 'bar bar byin gyis brlabs shing de'i sprul	rdo_0 rje_4 'bar_8 ba_13 byin_17 gyis_22 brlabs_27 shing_34 de_40 sprul_45 
+T02D1970:117a-17	pa rnams 'dul ba de dag gi spyi bo'i steng	ba_0 rnams_3 'dul_9 ba_14 de_17 'dag_20 gi_24 spyi_27 'bo_32 steng_37 
+T02D1970:117a-18	du / gnas te bsdigs pa na yang shin tu	du_0 gnas_5 te_10 sdig_13 ba_20 na_23 yang_26 shin_31 tu_36 
+T02D1970:117a-19	rab tu sdang ba rnams 'dul ba ma yin no	rab_0 tu_4 sdang_7 ba_13 rnams_16 'dul_22 ba_27 ma_30 yin_33 no_37 
+T02D1970:117a-20	du / // de nas ni yang 'jigs byed chen po'i sku 'dzin par gyur bas /	du_0 de_8 nas_11 ni_15 yang_18 'jigs_23 byed_29 chen_34 po_39 sku_44 'dzin_48 ba_54 gyur_58 ba_63 
+T02D1970:117a-21	de dag tshar bcad de /	de_0 'dag_3 tshar_7 gcod_13 de_18 
+T02D1970:117a-22	de dag rnal 'byor pa des kyang rjes su spyod pa tsam yin pas na /	de_0 'dag_3 rnal_7 'byor_12 ba_18 des_21 kyang_25 rjes_31 su_36 spyod_39 ba_45 tsam_48 yin_53 ba_57 na_61 
+T02D1970:117a-23	bsdu ba'i lha rnams kyang 'dul ba yin la /	sdud_0 ba_5 lha_10 rnams_14 kyang_20 'dul_26 ba_31 yin_34 la_38 
+T02D1970:117a-24	shin tu rab tu sdang ba de rnams ni /	shin_0 tu_5 rab_8 tu_12 sdang_15 ba_21 de_24 rnams_27 ni_33 
+T02D1970:117a-25	tshangs pa dang /	tshangs_0 ba_8 dang_11 
+T02D1970:117a-26	brgya byin dang /	brgya_0 byin_6 dang_11 
+T02D1970:117a-27	dbang phyug dang /	dbang_0 phyug_6 dang_12 
+T02D1970:117a-28	gzhon nu rnams gsol bar mdzad pa zhes 'chad par 'gyur ba'o //	gzhon_0 nu_6 rnams_9 gsol_15 ba_20 mdzad_24 ba_30 zhes_33 'chad_38 ba_44 'gyur_48 ba_54 
+T02D1970:117a-29	zhal dgu ba zhes bya ba ni /	zhal_0 dgu_5 ba_9 zhes_12 byed_17 ba_21 ni_24 
+T02D1970:117a-30	dbus dang de 'brel pa nas brtsams pa'i g-yas pa gsum dang /	dbus_0 dang_5 de_10 'brel_13 ba_19 nas_22 brtsams_26 ba_34 g-yas_39 ba_45 gsum_48 dang_53 
+T02D1970:117a-31	de bzhin du g-yon pa gsum dang /	de_0 bzhin_3 du_9 g-yon_12 ba_18 gsum_21 dang_26 
+T02D1970:117a-32	steng dang de'i steng rnams rim pa bzhin du sangs	steng_0 dang_6 de_11 steng_16 rnams_22 rim_28 ba_32 bzhin_35 du_41 sangs_44 
+T02D1970:117a-33	rgyas kyi mthar gyis gnas pa'i snyoms par 'jug pa	rgya_0 kyi_6 mthar_10 gyis_16 gnas_21 ba_26 snyom_31 ba_38 'jug_42 ba_47 
+T02D1970:117a-34	dgu'o // 'jig rten gsum zhes bya ba ni de'i bdag po ste /	dgu_0 'jig_9 rten_14 gsum_19 zhes_24 byed_29 ba_33 ni_36 de_39 bdag_44 po_49 ste_52 
+T02D1970:117a-35	rgyal bar byed pa dang /	rgyal_0 ba_6 byed_10 ba_15 dang_18 
+T02D1970:117a-36	sbrang rtsir byed pa dang /	sbrang_0 rtsir_7 byed_13 ba_18 dang_21 
+T02D1970:117a-37	don kun 'grub pa'o //	don_0 kun_4 'grub_8 ba_14 
+T02D1970:117a-38	zhabs bcu drug pa zhes bya ba ni stong pa nyid bcu drug rnam par dag pa'o //	zhabs_0 'chu_6 drug_10 ba_15 zhes_18 byed_23 ba_27 ni_30 stong_33 ba_39 nyid_42 'chu_47 drug_51 rnam_56 ba_61 'dag_65 ba_69 
+T02D1970:117a-39	de nyid kyi phyir mi ro la sogs pa bcu	de_0 nyid_3 kyi_8 phyir_12 mi_18 ro_21 la_24 sogs_27 ba_32 'chu_35 
+T02D1970:117a-40	drug ni phyi rol dang nang la sogs pa'i dngos	drug_0 ni_5 phyi_8 rol_13 dang_17 nang_22 la_27 sogs_30 ba_35 dngos_40 
+T02D1970:117a-41	por 'dzin pa bcu drug gi mtshan mar mdzad pa	por_0 'dzin_4 ba_10 'chu_13 drug_17 gi_22 mtshan_25 mar_32 mdzad_36 ba_42 
+T02D1970:117a-42	yin la / de dag stong pa nyid bcu drug	yin_0 la_4 de_9 'dag_12 stong_16 ba_22 nyid_25 'chu_30 drug_34 
+T02D1970:117a-43	gis bcom pa yin pa'i phyir zhabs bcu drug gis	gis_0 'joms_4 ba_9 yin_12 ba_16 phyir_21 zhabs_27 'chu_33 drug_37 gis_42 
+T02D1970:117a-44	yin la / brdzis pa'o // gcer bu'i sku la	yin_0 la_4 brdzis_9 ba_16 bcer_24 bu_29 sku_34 la_38 
+T02D1970:117a-45	zhes bya ba ni rnam par rtog pa spangs pa	zhes_0 byed_5 ba_9 ni_12 rnam_15 ba_20 rtogs_24 ba_29 spong_32 ba_39 
+T02D1970:117a-46	yin la / brdzis pa'o // dang / ngo tsha shes pa dang /	yin_0 la_4 brdzis_9 ba_16 dang_24 ngo_31 tsha_35 shes_40 ba_45 dang_48 
+T02D1970:117a-47	khrel yod pa'i phyir gos yin gyi /	'khrel_0 yod_6 ba_10 phyir_15 gos_21 yin_25 gyi_29 
+T02D1970:117b-0	ras la @117b sogs pas bkab pa ni byis pa'i gos yin par bstan pa'i phyir te /	ras_0 la_4 sogs_13 ba_18 'gebs_22 ba_27 ni_30 byis_33 ba_38 gos_43 yin_47 ba_51 ston_55 ba_61 phyir_66 te_72 
+T02D1970:117b-1	byis pa gos rnams gyon yang rtag par gcer //	byis_0 ba_5 gos_8 rnams_12 gyon_18 yang_23 rtag_28 ba_33 bcer_37 
+T02D1970:117b-2	mkhas pa gcer bur 'dug kyang gos dang bcas //	mkhas_0 ba_6 bcer_9 bur_14 'dug_18 kyang_23 gos_29 dang_33 'cha'_38 
+T02D1970:117b-3	zhes bshad pas so //	zhes_0 'chad_5 ba_11 so_15 
+T02D1970:117b-4	mtshan 'greng zhes bya ba ni 'di lha chen po	mtshan_0 'greng_7 zhes_14 byed_19 ba_23 ni_26 'di_29 lha_33 chen_37 po_42 
+T02D1970:117b-5	dang 'dra bar bstan pas de 'dul ba'i phyir te	dang_0 'dra_5 ba_10 ston_14 ba_20 de_24 'dul_27 ba_32 phyir_37 te_43 
+T02D1970:117b-6	/ de ni lhag par chags pa can yin pas /	de_2 ni_5 lhag_8 ba_13 chags_17 ba_23 can_26 yin_30 ba_34 
+T02D1970:117b-7	lo gsum du dka' thub bzlog ma dang gnyis kyi	lo_0 gsum_3 du_8 dka'_11 thub_16 bzlog_21 ma_27 dang_30 gnyis_35 kyi_41 
+T02D1970:117b-8	gnyis su bde bas bde ba ma tshim zhing rtag	gnyis_0 su_6 bde_9 ba_13 bde_17 ba_21 ma_24 tshim_27 zhing_33 rtag_39 
+T02D1970:117b-9	tu mtshan ma las su rung ba'o zhes grag go	tu_0 mtshan_3 ma_10 las_13 su_17 rung_20 ba_25 zhes_30 grag_35 go_40 
+T02D1970:117b-10	// de bas na chags dang lta ba zhe sdang bsngo //	de_3 ba_6 na_10 chags_13 dang_19 lta_24 ba_28 zhe_31 sdang_35 sngo_41 
+T02D1970:117b-11	lha chen tshangs pa khyab 'jug 'dul //	lha_0 chen_4 tshangs_9 ba_17 khyab_20 'jug_26 'dul_31 
+T02D1970:117b-12	zhes bshad do //	zhes_0 'chad_5 do_11 
+T02D1970:117b-13	zur phud lnga pa zhes bya ba ni ye shes lnga dang bcas par ston pa'o //	zur_0 'bud_4 lnga_9 ba_14 zhes_17 byed_22 ba_26 ni_29 ye_32 shes_35 lnga_40 dang_45 'cha'_50 ba_55 ston_59 ba_64 
+T02D1970:117b-14	zhal thams cad kyang spyan gsum dang ldan pa'o zhes	zhal_0 thams_5 cad_11 kyang_15 spyan_21 gsum_27 dang_32 ldan_37 ba_42 zhes_47 
+T02D1970:117b-15	bya ba ni sems can gyi phyir snang ba ston	byed_0 ba_4 ni_7 sems_10 can_15 gyi_19 phyir_23 snang_29 ba_35 ston_38 
+T02D1970:117b-16	pa'i sgo ji snyed pa las yang rnam par thar	ba_0 sgo_5 ji_9 snyed_12 ba_18 las_21 yang_25 rnam_30 ba_35 thar_39 
+T02D1970:117b-17	pa gsum gsum las byung ba'i phyir ro //	ba_0 gsum_3 gsum_8 las_13 'byung_17 ba_23 phyir_28 ro_34 
+T02D1970:117b-18	nyi ma'i dkyil 'khor zhes bya ba ni yi ge aa dmar po las byung ba'o //	nyi_0 ma_4 dkyil_9 'khor_15 zhes_21 byed_26 ba_30 ni_33 yi_36 ge_39 aa_42 dmar_45 po_50 las_53 'byung_57 ba_63 
+T02D1970:117b-19	de la rang gi gsang sngags dmigs la zhes bya	de_0 la_3 rang_6 gi_11 gsang_14 sngags_20 dmigs_27 la_33 zhes_36 byed_41 
+T02D1970:117b-20	ba ni dbus su yam sngon po'am h'um sngon po'i	ba_0 ni_3 dbus_6 su_11 yam_14 sngon_18 po_24 h_30 sngon_35 po_41 
+T02D1970:117b-21	yi ge ste / mtha' mar sngags gsum gyi phreng ba g-yas skor du bsgom mo //	yi_0 ge_3 ste_6 mtha'_12 mar_18 sngags_22 gsum_29 gyi_34 phreng_38 ba_45 g-yas_48 skor_54 du_59 bsgom_62 mo_68 
+T02D1970:117b-22	g-yeng ba med pa'i yid kyis zhes bya ba ni tha na stong pa nyid kyang mi bsam ste /	g-yeng_0 ba_7 med_10 ba_14 yid_19 kyis_23 zhes_28 byed_33 ba_37 ni_40 tha_43 na_47 stong_50 ba_56 nyid_59 kyang_64 mi_70 bsam_73 ste_78 
+T02D1970:117b-23	rig sngags lha ni ma gtogs par //	rig_0 sngags_4 lha_11 ni_15 ma_18 gtogs_21 ba_27 
+T02D1970:117b-24	bsgom pa mchog tu gyur pa yang //	bsgom_0 ba_6 mchog_9 tu_15 gyur_18 ba_23 yang_26 
+T02D1970:117b-25	zlos pas bzlas brjod byed pa'i tshe //	zlos_0 ba_5 bzlas_9 rjod_15 byed_21 ba_26 tshe_31 
+T02D1970:117b-26	kun rtog bzung nas mi bsam mo //	kun_0 rtogs_4 bzung_9 nas_15 mi_19 bsam_22 mo_27 
+T02D1970:117b-27	zhes gsungs so //	zhes_0 gsungs_5 so_12 
+T02D1970:117b-28	bzlas brjod bya'o zhes bya ba ni /	bzlas_0 rjod_6 byed_12 zhes_18 byed_23 ba_27 ni_30 
+T02D1970:117b-29	sngon bzhin spro bsdu bya ste skyo na'o //	sngon_0 bzhin_6 spro_12 sdud_17 byed_22 ste_26 skyo_30 na_35 
+T02D1970:117b-30	'thab mo'i gnas zhes bya ba ni sngon bzhin no //	'thab_0 mo_6 gnas_11 zhes_16 byed_21 ba_25 ni_28 sngon_31 bzhin_37 no_43 
+T02D1970:117b-31	'dir ni bsnyen pa'i gnas so //	'dir_0 ni_5 snyen_8 ba_15 gnas_20 so_25 
+T02D1970:117b-32	nges pa kho na ma yin pas na /	nges_0 ba_5 kho_8 na_12 ma_15 yin_18 ba_22 na_26 
+T02D1970:117b-33	dur khrod la sogs pa zhes smos te /	dur_0 khrod_4 la_10 sogs_13 ba_18 zhes_21 smos_26 te_31 
+T02D1970:117b-34	sngar bstan pa rnams las yid gang dga' bar gnas so //	sngar_0 ston_6 ba_12 rnams_15 las_21 yid_25 gang_29 dga'_34 ba_39 gnas_43 so_48 
+T02D1970:117b-35	dam tshig gi rdzas zhes bya ba ni sha chen po dang rdo rje chu la sogs pa ste /	dam_0 tshig_4 gi_10 rdzas_13 zhes_19 byed_24 ba_28 ni_31 sha_34 chen_38 po_43 dang_46 rdo_51 rje_55 chu_59 la_63 sogs_66 ba_71 ste_74 
+T02D1970:117b-36	'di ni re zhig sems sbyangs pas bya'o //	'di_0 ni_4 re_7 'jig_10 sems_15 sbyong_20 ba_28 byed_32 
+T02D1970:117b-37	le'u bzhi pa'i bshad pa'o /	le_0 bzhi_5 ba_10 'chad_15 ba_21 
+T02D1970:117b-39	// / khor lo bri bar bya'o zhes bya ba ni /	lo_10 'bri_13 ba_17 byed_21 zhes_27 byed_32 ba_36 ni_39 
+T02D1970:117b-40	'di ni mi ma yin pa'i tshogs kyis bskor ba'am /	'di_0 ni_4 mi_7 ma_10 yin_13 ba_17 tshogs_22 kyis_29 skor_34 ba_40 
+T02D1970:117b-41	dkyil 'khor gyi tshul las phyag rgya mi bri bar rdo rje ra ba la sgo gdong pa'o //	dkyil_0 'khor_6 gyi_12 tshul_16 las_22 phyag_26 rgya_32 mi_37 'bri_40 ba_44 rdo_48 rje_52 ra_56 ba_59 la_62 sgo_65 gdong_69 ba_75 
+T02D1970:117b-42	lhag pa'i yon ni zhes bya ba ni 'dri mkhan gyi tshad las rgal ba'o //	lhag_0 ba_5 yon_10 ni_14 zhes_17 byed_22 ba_26 ni_29 'bri_32 mkhan_37 gyi_43 tshad_47 las_53 rgal_57 ba_62 
+T02D1970:118a-0	srin po zhes @118a * //	srin_0 po_5 zhes_8 
+T02D1970:118a-1	bya ba la sogs pa ni /	byed_0 ba_4 la_7 sogs_10 ba_15 ni_18 
+T02D1970:118a-2	dur khrod kyi de kho na shes par 'gyur ro //	dur_0 khrod_4 kyi_10 de_14 kho_17 na_21 shes_24 ba_29 'gyur_33 ro_39 
+T02D1970:118a-3	sgrub pa po zhes bya ba ni ji ltar bstan	sgrub_0 ba_6 po_9 zhes_12 byed_17 ba_21 ni_24 ji_27 ltar_30 ston_35 
+T02D1970:118a-4	pa las sha tshugs la sogs pa rab tu 'dra	ba_0 las_3 sha_7 tshugs_11 la_18 sogs_21 ba_26 rab_29 tu_33 'dra_36 
+T02D1970:118a-5	bar bri'o // sha chen po'i bdug spos phul te zhes bya ba ni dang por spyan phye la'o //	ba_0 'bri_4 sha_13 chen_17 po_22 bdug_27 spros_32 'bul_37 te_42 zhes_45 byed_50 ba_54 ni_57 dang_60 por_65 spyan_69 'byed_75 la_80 
+T02D1970:118a-6	gzhan la bstan par mi bya'o zhes bya ba ni /	gzhan_0 la_6 ston_9 ba_15 mi_19 byed_22 zhes_28 byed_33 ba_37 ni_40 
+T02D1970:118a-7	glegs bam dang ni bris sku dag / rmongs pa dag la bstan byas na //	glegs_0 bam_6 dang_10 ni_15 'bri_18 sku_23 'dag_27 rmongs_33 ba_40 'dag_43 la_47 ston_50 byed_56 na_61 
+T02D1970:118a-8	tshe 'dir dngos grub mi 'byung ste //	tshe_0 'dir_5 dngos_10 'grub_16 mi_21 'byung_24 ste_31 
+T02D1970:118a-9	tshe rabs gzhan du'ang dngos grub med //	tshe_0 rabs_5 gzhan_10 du_16 dngos_23 'grub_29 med_34 
+T02D1970:118a-10	ces gsungs pas so //	ces_0 gsungs_4 ba_11 so_15 
+T02D1970:118a-11	rtag tu nub mo za bar bya'o //	rtag_0 tu_5 nub_8 mo_12 za_15 ba_18 byed_22 
+T02D1970:118a-12	zhes bya ba ni gcig tu'ang gsang bar bya ba'i	zhes_0 byed_5 ba_9 ni_12 gcig_15 tu_20 gsang_27 ba_33 byed_37 ba_41 
+T02D1970:118a-13	phyir mtshan mo mi nyal tsam na dam tshig rdzas	phyir_0 mtshan_6 mo_13 mi_16 nyal_19 tsam_24 na_29 dam_32 tshig_36 rdzas_42 
+T02D1970:118a-14	dag lus dub pa bsal ba la sogs pa'i phyir	'dag_0 lus_4 dub_8 ba_12 bsal_15 ba_20 la_23 sogs_26 ba_31 phyir_36 
+T02D1970:118a-15	bza'o // nyin par mi'i sha la sogs pa bza' ba ni /	bza_0 nyin_9 ba_14 mi_18 sha_23 la_27 sogs_30 ba_35 bza'_38 ba_43 ni_46 
+T02D1970:118a-16	yang dag par rdzogs pa'i sangs rgyas la 'gro ba	yang_0 'dag_5 ba_9 rdzogs_13 ba_20 sangs_25 rgya_31 la_37 'gro_40 ba_45 
+T02D1970:118a-17	skur pa smra ba'i mtha' la thug par 'gyur zhing	skur_0 ba_5 smra_8 ba_13 mtha'_18 la_24 thug_27 ba_32 'gyur_36 zhing_42 
+T02D1970:118a-18	bdag nyid kyang ce spyang gi dang 'byung po'i khongs	bdag_0 nyid_5 kyang_10 ce_16 spyang_19 gi_26 dang_29 'byung_34 po_41 khongs_46 
+T02D1970:118a-19	su 'jug pa'i phyir ro //	su_0 'jug_3 ba_8 phyir_13 ro_19 
+T02D1970:118a-20	gang zhig dngos grub mchog 'dong pa //	gang_0 'jig_5 dngos_10 'grub_16 mchog_21 'dong_27 ba_33 
+T02D1970:118a-21	zhes bya ba ni ngan pa'i spyod pa 'di dag	zhes_0 byed_5 ba_9 ni_12 ngan_15 ba_20 spyod_25 ba_31 'di_34 'dag_38 
+T02D1970:118a-22	ni sems dag pas bya'i gzhan du ma yin la	ni_0 sems_3 'dag_8 ba_12 byed_16 gzhan_22 du_28 ma_31 yin_34 la_38 
+T02D1970:118a-23	/ dngos grub chen po rnams ni sems dag pas thob kyi /	dngos_2 'grub_8 chen_13 po_18 rnams_21 ni_27 sems_30 'dag_35 ba_39 'thob_43 kyi_48 
+T02D1970:118a-24	mi gtsang ba longs spyod pas ni ma yin te /	mi_0 gtsang_3 ba_10 longs_13 spyod_19 ba_25 ni_29 ma_32 yin_35 te_39 
+T02D1970:118a-25	phag la sogs pa bzhin no //	phag_0 la_5 sogs_8 ba_13 bzhin_16 no_22 
+T02D1970:118a-26	sems dag pa ni 'bras s'a lu'i chang dang /	sems_0 'dag_5 ba_9 ni_12 'bras_15 s_21 lu_25 chang_30 dang_36 
+T02D1970:118a-27	mi'i sha dang /	mi_0 sha_5 dang_9 
+T02D1970:118a-28	bshad ba'i dri dang /	'chad_0 ba_6 'dri_11 dang_15 
+T02D1970:118a-29	ga bur gyi dri dag la 'dod pa'i yon tan du mnyam par 'gyur te /	ga_0 bur_3 gyi_7 'dri_11 'dag_15 la_19 'dod_22 ba_27 yon_32 tan_36 du_40 mnyam_43 ba_49 'gyur_53 te_59 
+T02D1970:118a-30	de bas na /	de_0 ba_3 na_7 
+T02D1970:118a-31	gang dag dga' ba de dbul te /	gang_0 'dag_5 dga'_9 ba_14 de_17 'bul_20 te_25 
+T02D1970:118a-32	'di ltar chang dang de bzhin dri //	'di_0 ltar_4 chang_9 dang_15 de_20 bzhin_23 'dri_29 
+T02D1970:118a-33	ji ltar bza' ba de bzhin bshad //	ji_0 ltar_3 bza'_8 ba_13 de_16 bzhin_19 'chad_25 
+T02D1970:118a-34	ji ltar dri bzangs ga pur dag / de bzhin bshad pa las byung dri //	ji_0 ltar_3 'dri_8 bzangs_12 ga_19 pur_22 'dag_26 de_32 bzhin_35 'chad_41 ba_47 las_50 'byung_54 'dri_60 
+T02D1970:118a-35	zhes gsungs pa lta bu'o //	zhes_0 gsungs_5 ba_12 lta_15 bu_19 
+T02D1970:118a-36	le'u lnga pa'i bshad pa'o /	le_0 lnga_5 ba_10 'chad_15 ba_21 
+T02D1970:118a-38	// / sbyin sreg gi cho ga zhes bya ba ni /	sbyin_5 sreg_11 gi_16 cho_19 ga_23 zhes_26 byed_31 ba_35 ni_38 
+T02D1970:118a-39	rab tu bsdus pa bshad par bya //	rab_0 tu_4 sdud_7 ba_13 'chad_16 ba_22 byed_26 
+T02D1970:118a-40	rgyas par 'di dang cha mthun pa'i rgyud las shes par bya shing /	rgya_0 ba_6 'di_10 dang_14 cha_19 mthun_23 ba_29 brgyud_34 las_40 shes_44 ba_49 byed_53 shing_57 
+T02D1970:118a-41	gzhan yang /	gzhan_0 yang_6 
+T02D1970:118a-42	zhi ba dang ni rgyas pa dag / zla ba yar gyi ngo la bya //	zhi_0 ba_4 dang_7 ni_12 rgya_15 ba_21 'dag_24 zla_30 ba_34 yar_37 gyi_41 ngo_45 la_49 byed_52 
+T02D1970:118a-43	dbang dang drag shul sbyar sogs pa //	dbang_0 dang_6 drag_11 shul_16 sbyor_21 sogs_27 ba_32 
+T02D1970:118a-44	zla ba mar gyi ngo la brtsam //	zla_0 ba_4 mar_7 gyi_11 ngo_15 la_19 brtsam_22 
+T02D1970:118a-45	byang du kha bltas zhi ba la //	byang_0 du_6 kha_9 lta_13 zhi_19 ba_23 la_26 
+T02D1970:118a-46	de bzhin rgyas pa shar du blta //	de_0 bzhin_3 rgya_9 ba_15 'char_18 du_23 lta_26 
+T02D1970:118a-47	drag po'i las la lho phyogs su //	drag_0 po_5 las_10 la_14 lho_17 phyogs_21 su_28 
+T02D1970:118a-48	dbang gi las la nub tu blta //	dbang_0 gi_6 las_9 la_13 nub_16 tu_20 lta_23 
+T02D1970:118b-0	gsad pa nyid la @118b me phyogs su //	gsad_0 ba_5 nyid_8 la_13 me_22 phyogs_25 su_32 
+T02D1970:118b-1	dbye ba la ni srin po'i phyogs //	'byed_0 ba_5 la_8 ni_11 srin_14 po_19 phyogs_24 
+T02D1970:118b-2	gnas nas bskrad pa rlung phyogs su //	gnas_0 nas_5 skrod_9 ba_16 rlung_19 phyogs_25 su_32 
+T02D1970:118b-3	mnan pa la ni dbang ldan phyogs //	gnon_0 ba_5 la_8 ni_11 dbang_14 ldan_20 phyogs_25 
+T02D1970:118b-4	zhes la kha dog dkar po ste //	zhes_0 la_5 kha_8 dog_12 dkar_16 po_21 ste_24 
+T02D1970:118b-5	rgyas pa la ni ser por bya //	rgya_0 ba_6 la_9 ni_12 ser_15 por_19 byed_23 
+T02D1970:118b-6	dbang dang dgug pa dag la dmar //	dbang_0 dang_6 'gugs_11 ba_16 'dag_19 la_23 dmar_26 
+T02D1970:118b-7	bsad pa kha dog nag po'o //	bsad_0 ba_5 kha_8 dog_12 nag_16 po_20 
+T02D1970:118b-8	zhi la byams pa'i sems kyis bya //	zhi_0 la_4 byams_7 ba_13 sems_18 kyis_23 byed_28 
+T02D1970:118b-9	rgyas la dga' ba'i sems kyis bya //	rgya_0 la_6 dga'_9 ba_14 sems_19 kyis_24 byed_29 
+T02D1970:118b-10	dbang dang dgug pa chags sems kyis //	dbang_0 dang_6 'gugs_11 ba_16 chags_19 sems_25 kyis_30 
+T02D1970:118b-11	bsang pa la ni khro sems kyis //	bsang_0 ba_6 la_9 ni_12 khro_15 sems_20 kyis_25 
+T02D1970:118b-12	zhi ba srod la phal cher bya //	zhi_0 ba_4 srod_7 la_12 phal_15 cher_20 byed_25 
+T02D1970:118b-13	rgyas pa de bzhin snga dro bya //	rgya_0 ba_6 de_9 bzhin_12 snga_18 dro_23 byed_27 
+T02D1970:118b-14	dbang dang mngon spyod dag gi las //	dbang_0 dang_6 mngon_11 spyod_17 'dag_23 gi_27 las_30 
+T02D1970:118b-15	nyi ma gung dang nam phyed na //	nyi_0 ma_4 gung_7 dang_12 nam_17 phyed_21 na_27 
+T02D1970:118b-16	zhes gsungs pa sbyar ro ;	zhes_0 gsungs_5 ba_12 sbyor_15 ro_21 
+T02D1970:118b-17	/ bru mar gyi zhes bya ba ni /	mar_6 gyi_10 zhes_14 byed_19 ba_23 ni_26 
+T02D1970:118b-18	ske tshe'am yungs mar gyis so //	ske_0 tshe_4 yungs_12 mar_18 gyis_22 so_27 
+T02D1970:118b-19	brdzis te zhes bya ba ni /	brdzis_0 te_7 zhes_10 byed_15 ba_19 ni_22 
+T02D1970:118b-20	chu bo'i 'gram gnyis kyis dang /	chu_0 'bo_4 'grams_9 gnyis_15 kyis_21 dang_26 
+T02D1970:118b-21	bsgrub bya'i rkang rjes kyi sa dang brdzis te /	sgrub_0 byed_7 rkang_13 rjes_19 kyi_24 sa_28 dang_31 brdzis_36 te_43 
+T02D1970:118b-22	dgra'i pu ta ling+ga byas te //	dgra_0 pu_7 ta_10 ling_13 ga_18 byed_21 te_26 
+T02D1970:118b-23	de'i snying gar las kyi sngags bskul ba smros pa bris te /	de_0 snying_5 gar_12 las_16 kyi_20 sngags_24 skul_31 ba_37 smros_40 ba_46 'bri_49 te_54 
+T02D1970:118b-24	mtshon rnon pos gtub cing bsreg go //	mtshon_0 rnon_7 pos_12 'thub_16 cing_21 bsreg_26 go_32 
+T02D1970:118b-25	dur khrod me la zhes bya ba ni /	dur_0 khrod_4 me_10 la_13 zhes_16 byed_21 ba_25 ni_28 
+T02D1970:118b-26	dur khrod nas byung ba'i me la'o //	dur_0 khrod_4 nas_10 'byung_14 ba_20 me_25 la_28 
+T02D1970:118b-27	yid du mi 'ong ba'i rlung gi me zhes ni mi bsam ste /	yid_0 du_4 mi_7 'ong_10 ba_15 rlung_20 gi_26 me_29 zhes_32 ni_37 mi_40 bsam_43 ste_48 
+T02D1970:118b-28	mngon spyod la ni dur khrod las blangs pa'i me zhes gsungs pa de yang /	mngon_0 spyod_6 la_12 ni_15 dur_18 khrod_22 las_28 blangs_32 ba_39 me_44 zhes_47 gsungs_52 ba_59 de_62 yang_65 
+T02D1970:118b-29	rtog pa de ma 'brel pa'i phyir ro //	rtogs_0 ba_5 de_8 ma_11 'brel_14 ba_20 phyir_25 ro_31 
+T02D1970:118b-30	bas mtha' zhes bya ba ni gang nas grong gi dgra chen po yang mi thos pa'o //	ba_0 mtha'_4 zhes_10 byed_15 ba_19 ni_22 gang_25 nas_30 grong_34 gi_40 dgra_43 chen_48 po_53 yang_56 mi_61 thos_64 ba_69 
+T02D1970:118b-31	smo sha can zhes bya ba yang //	smo_0 sha_4 can_8 zhes_12 byed_17 ba_21 yang_24 
+T02D1970:118b-32	sme sha can las btsal ba'i me ste //	sme_0 sha_4 can_8 las_12 btsal_16 ba_22 me_27 ste_30 
+T02D1970:118b-33	de lta ma yin na sbyor ba 'di gnyis rang bzlog pa'i nyes par ji ste mi 'gyur /	de_0 lta_3 ma_7 yin_10 na_14 sbyor_17 ba_23 'di_26 gnyis_30 rang_36 bzlog_41 ba_47 nyes_52 ba_57 ji_61 ste_64 mi_68 'gyur_71 
+T02D1970:118b-34	bya rog la sogs pa ni zur re res 'grub pas na'am /	byed_0 rog_4 la_8 sogs_11 ba_16 ni_19 zur_22 re_26 res_29 'grub_33 ba_39 na_43 
+T02D1970:118b-35	khyim du 'dug nas zhes bya ba ni 'di ltar	khyim_0 du_6 'dug_9 nas_14 zhes_18 byed_23 ba_27 ni_30 'di_33 ltar_37 
+T02D1970:118b-36	na yang grub na dur khrod la sogs par lta	na_0 yang_3 'grub_8 na_13 dur_16 khrod_20 la_26 sogs_29 ba_34 lta_38 
+T02D1970:118b-37	ci smos pa'o // rdo rje 'chang zhes bya ba	ci_0 smos_3 ba_8 rdo_16 rje_20 'chang_24 zhes_31 byed_36 ba_40 
+T02D1970:118b-38	ni sngags pa gang yang rung ba la dgongs pas	ni_0 sngags_3 ba_10 gang_13 yang_18 rung_23 ba_28 la_31 dgongs_34 ba_41 
+T02D1970:118b-39	ci smos pa'o // gsungs pa'o // rlung gi dkyil 'khor gyi dbus su zhes bya ba ni /	ci_0 smos_3 ba_8 gsungs_16 ba_23 rlung_31 gi_37 dkyil_40 'khor_46 gyi_52 dbus_56 su_61 zhes_64 byed_69 ba_73 ni_76 
+T02D1970:118b-40	tha ba zla ba phyed pa lta bu'am /	tha_0 ba_4 zla_7 ba_11 phyed_14 ba_20 lta_23 bu_27 
+T02D1970:118b-41	gru gsum pa'i dbus su de ltar bri ba'o //	gru_0 gsum_4 ba_9 dbus_14 su_19 de_22 ltar_25 'bri_30 ba_34 
+T02D1970:118b-42	gru bzhi dkyil 'khor zhes bya ba ni /	gru_0 bzhi_4 dkyil_9 'khor_15 zhes_21 byed_26 ba_30 ni_33 
+T02D1970:118b-43	thab khung ser po dbang chen gyi dkyil 'khor lta bu'o //	thab_0 khung_5 ser_11 po_15 dbang_18 chen_24 gyi_29 dkyil_33 'khor_39 lta_45 bu_49 
+T02D1970:118b-44	las dang mthun pa'i rnal 'byor zhes dmigs te zhes bya ba ni /	las_0 dang_4 mthun_9 ba_15 rnal_20 'byor_25 zhes_31 dmigs_36 te_42 zhes_45 byed_50 ba_54 ni_57 
+T02D1970:118b-45	sngar brjod pa dang me lha dang lhan cig pa'i lha rnams so //	sngar_0 rjod_6 ba_12 dang_15 me_20 lha_23 dang_27 lhan_32 cig_37 ba_41 lha_46 rnams_50 so_56 
+T02D1970:118b-46	byi la'i mu tra dang sbyar la //	'byi_0 la_4 mu_9 tra_12 dang_16 sbyor_21 la_27 
+T02D1970:119a-0	zhes bya ba ni rdzas de dag re re nas bsregs @119a * //	zhes_0 byed_5 ba_9 ni_12 rdzas_15 de_21 'dag_24 re_28 re_31 nas_34 bsregs_38 
+T02D1970:119a-1	pa bkang pa'o //	ba_0 'geng_3 ba_9 
+T02D1970:119a-2	legs par mnyam par gzhag par bya'o zhes bya ba ni snying rjes rab tu brlan par bya'o //	legs_0 ba_5 mnyam_9 ba_15 'jog_19 ba_25 byed_29 zhes_35 byed_40 ba_44 ni_47 snying_50 rjes_57 rab_62 tu_66 brlan_69 ba_75 byed_79 
+T02D1970:119a-3	khrag gis brdzis te zhes bya ba ni khrag sdig	khrag_0 gis_6 brdzis_10 te_17 zhes_20 byed_25 ba_29 ni_32 khrag_35 sdig_41 
+T02D1970:119a-4	med pa gang yang rung bas brdzis la bu mo'i	med_0 ba_4 gang_7 yang_12 rung_17 ba_22 brdzis_26 la_33 bu_36 mo_39 
+T02D1970:119a-5	gzugs la brnyan snying gar sngags bskul ba smos la	gzugs_0 la_6 rnyan_9 snying_16 gar_23 sngags_27 skul_34 ba_40 smos_43 la_48 
+T02D1970:119a-6	bzhag pa byas na de bcad cing bsregs pa'o //	'jog_0 ba_6 byed_9 na_14 de_17 gcod_20 cing_25 bsregs_30 ba_37 
+T02D1970:119a-7	zhi bar dmigs pa'i bdag nyid kyis //	zhi_0 ba_4 dmigs_8 ba_14 bdag_19 nyid_24 kyis_29 
+T02D1970:119a-8	zhes bya ba ni lha dang me'i lha dang rdzas rnams kha dog dkar por bsams te /	zhes_0 byed_5 ba_9 ni_12 lha_15 dang_19 me_24 lha_29 dang_33 rdzas_38 rnams_44 kha_50 dog_54 dkar_58 por_63 bsams_67 te_73 
+T02D1970:119a-9	gsang ba'i bdag por de ltar me yi gzugs ni byin rlabs te /	gsang_0 ba_6 bdag_11 por_16 de_20 ltar_23 me_28 yi_31 gzugs_34 ni_40 byin_43 rlabs_48 te_54 
+T02D1970:119a-10	bdag gi rang gi gzugs dang ni //	bdag_0 gi_5 rang_8 gi_13 gzugs_16 dang_22 ni_27 
+T02D1970:119a-11	rdzas kyang de yi ngo bor bya //	rdzas_0 kyang_6 de_12 yi_15 ngo_18 'bor_22 byed_26 
+T02D1970:119a-12	zhes gsungs pas so //	zhes_0 gsungs_5 ba_12 so_16 
+T02D1970:119a-13	mnyam par gzhag pa'i yid kyis zhes bya ba ni rin po che dang /	mnyam_0 ba_6 'jog_10 ba_16 yid_21 kyis_25 zhes_30 byed_35 ba_39 ni_42 rin_45 po_49 che_52 dang_56 
+T02D1970:119a-14	nor sna tshogs kyi char dbab pa'i ting nge 'dzin la'o //	nor_0 sna_4 tshogs_8 kyi_15 char_19 'bebs_24 ba_29 ting_34 nge_39 'dzin_43 la_49 
+T02D1970:119a-15	ske tshe las zhes bya ba ni /	ske_0 tshe_4 las_9 zhes_13 byed_18 ba_22 ni_25 
+T02D1970:119a-16	ske tshe btags pa las so //	ske_0 tshe_4 'dogs_9 ba_15 las_18 so_22 
+T02D1970:119a-17	bya rgod chen po'i tshang zhes bya ba de ni	byed_0 rgod_4 chen_9 po_14 tshang_19 zhes_26 byed_31 ba_35 de_38 ni_41 
+T02D1970:119a-18	ci bsags pa'i tshad bye brag mi bya bar ro	ci_0 bsags_3 ba_9 tshad_14 'bye_20 brag_24 mi_29 byed_32 ba_36 ro_40 
+T02D1970:119a-19	// nor ma yin par 'gyur te zhes bya ba	nor_3 ma_7 yin_10 ba_14 'gyur_18 te_24 zhes_27 byed_32 ba_36 
+T02D1970:119a-20	ni aa mu ka na ma tra bya aa tra	ni_0 aa_3 mu_6 ka_9 na_12 ma_15 tra_18 byed_22 aa_26 tra_29 
+T02D1970:119a-21	bya ku ru zhes bskul pa smos pas so //	byed_0 ku_4 ru_7 zhes_10 skul_15 ba_21 smos_24 ba_29 so_33 
+T02D1970:119a-22	bcom ldan 'das kyi spyan sngar nyid du zhes bya	'joms_0 ldan_5 'da'_10 kyi_15 spyan_19 sngar_25 nyid_31 du_36 zhes_39 byed_44 
+T02D1970:119a-23	ba ni de bzhugs pa'i gnas su de'i spyan sngar	ba_0 ni_3 de_6 bzhugs_9 ba_16 gnas_21 su_26 de_29 spyan_34 sngar_40 
+T02D1970:119a-24	te / 'di ni gnas 'dir bstan pa'o //	te_0 'di_5 ni_9 gnas_12 'dir_17 ston_22 ba_28 
+T02D1970:119a-25	khrag ces bya ba yang ba lang nyid kyi'o //	khrag_0 ces_6 byed_10 ba_14 yang_17 ba_22 lang_25 nyid_30 kyi_35 
+T02D1970:119a-26	rdo rje chu ni rang gi mu tra'o //	rdo_0 rje_4 chu_8 ni_12 rang_15 gi_20 mu_23 tra_26 
+T02D1970:119a-27	rgyal po'i pho brang 'khor zhes bya ba ni gzhan	rgyal_0 po_6 pho_11 brang_15 'khor_21 zhes_27 byed_32 ba_36 ni_39 gzhan_42 
+T02D1970:119a-28	gyi tshogs lta ci smos zhes bya ba'i tha tshig	gyi_0 tshogs_4 lta_11 ci_15 smos_18 zhes_23 byed_28 ba_32 tha_37 tshig_41 
+T02D1970:119a-29	go // bdag nyid gcig pu bya ba yin //	go_0 bdag_6 nyid_11 gcig_16 pu_21 byed_24 ba_28 yin_31 
+T02D1970:119a-30	zhes bya ba ni rjes su mthun pa'i grogs rnyed par dka' ba'i phyir te /	zhes_0 byed_5 ba_9 ni_12 rjes_15 su_20 mthun_23 ba_29 grogs_34 rnyed_40 ba_46 dka'_50 ba_55 phyir_60 te_66 
+T02D1970:119a-31	byis pas grogs su mi 'gyur phyir //	byis_0 ba_5 grogs_9 su_15 mi_18 'gyur_21 phyir_27 
+T02D1970:119a-32	gcig pu spyod pa byed sla bas //	gcig_0 pu_5 spyod_8 ba_14 byed_17 sla_22 ba_26 
+T02D1970:119a-33	ma tang dgon pa'i glang po bzhin //	ma_0 tang_3 dgon_8 ba_13 glang_18 po_24 bzhin_27 
+T02D1970:119a-34	sems khral bskyangs te gcig pur spyad //	sems_0 khral_5 skyong_11 te_20 gcig_23 pur_28 spyod_32 
+T02D1970:119a-35	ces gsungs pa lta bu'o //	ces_0 gsungs_4 ba_11 lta_14 bu_18 
+T02D1970:119a-36	rgya chen po zhes bya ba ni las kyi rnam grangs mang po ste /	rgya_0 chen_5 po_10 zhes_13 byed_18 ba_22 ni_25 las_28 kyi_32 rnam_36 grangs_41 mang_48 po_53 ste_56 
+T02D1970:119a-37	gzhan ni 'dir ni rab tu bsdus pas /	gzhan_0 ni_6 'dir_9 ni_14 rab_17 tu_21 sdud_24 ba_30 
+T02D1970:119a-38	rgyud gzhan la ltos pa'i phyir ro //	brgyud_0 gzhan_6 la_12 ltos_15 ba_20 phyir_25 ro_31 
+T02D1970:119a-39	le'u drug pa'i bshad pa'o /	le_0 drug_5 ba_10 'chad_15 ba_21 
+T02D1970:119a-41	// / bsnyen zhing zhes bya ba ni bsod nams dang ye shes skyes pas so //	snyen_5 zhing_12 zhes_18 byed_23 ba_27 ni_30 bsod_33 nams_38 dang_43 ye_48 shes_51 skye_56 ba_62 so_66 
+T02D1970:119a-42	de bas na nges par sems las su rung bar sbyangs pa ste nges so //	de_0 ba_3 na_7 nges_10 ba_15 sems_19 las_24 su_28 rung_31 ba_36 sbyong_40 ba_48 ste_51 nges_55 so_60 
+T02D1970:119a-43	bsgrub bya zhes bya ba la sogs pa ni ji	sgrub_0 byed_7 zhes_11 byed_16 ba_20 la_23 sogs_26 ba_31 ni_34 ji_37 
+T02D1970:119a-44	skad bstan pa la spyi'u tshugs su gnas par ro	skad_0 ston_5 ba_11 la_14 spyi_17 tshugs_24 su_31 gnas_34 ba_39 ro_43 
+T02D1970:119a-45	// dpag tshad brgya zhes bya ba ni byis pa	dpog_3 tshad_8 brgya_14 zhes_20 byed_25 ba_29 ni_32 byis_35 ba_40 
+T02D1970:119b-0	lta bu'i sgrub pa po rnams ring bar gnas @119b	lta_0 bu_4 sgrub_9 ba_15 po_18 rnams_21 ring_27 ba_32 gnas_36 
+T02D1970:119b-1	pa la re ba chad pas sgrub par dka' mod	ba_0 la_3 re_6 ba_9 'chad_12 ba_17 sgrub_21 ba_27 dka'_31 mod_36 
+T02D1970:119b-2	// kyi zhes pa'o // snying gar zhes bya ba	kyi_3 zhes_7 ba_12 snying_20 gar_27 zhes_31 byed_36 ba_40 
+T02D1970:119b-3	ni mchod sdong la 'jig pa'i skyes bu'i phyir blta	ni_0 mchod_3 sdong_9 la_15 'jig_18 ba_23 skye_28 bu_34 phyir_39 lta_45 
+T02D1970:119b-4	ba ltar lag pa g-yas pa dag mtshon cha'i mchog	ba_0 ltar_3 lag_8 ba_12 g-yas_15 ba_21 'dag_24 mtshon_28 cha_35 mchog_41 
+T02D1970:119b-5	// kyi zhes pa'o // 'dzin par ro // aa	kyi_3 zhes_7 ba_12 'dzin_20 ba_26 ro_30 aa_36 
+T02D1970:119b-6	las sgrub pa'i zla ba'i dkyil 'khor zhes bya ba	las_0 sgrub_4 ba_10 zla_15 ba_19 dkyil_24 'khor_30 zhes_36 byed_41 ba_45 
+T02D1970:119b-7	ni byi r'u mdog 'dra bar ro //	ni_0 'byi_3 r_7 mdog_11 'dra_16 ba_21 ro_25 
+T02D1970:119b-8	sa gsum zhes bya ba ni sa 'og dang sa yul dang sa bla'o //	sa_0 gsum_3 zhes_8 byed_13 ba_17 ni_20 sa_23 'og_26 dang_30 sa_35 yul_38 dang_42 sa_47 bla_50 
+T02D1970:119b-9	des klu lhag ma can gyi gzugs dkar po zhes	des_0 klu_4 lhag_8 ma_13 can_16 gyi_20 gzugs_24 dkar_30 po_35 zhes_38 
+T02D1970:119b-10	bya ba ni 'di klu'i rgyal po rgya mtsho chen	byed_0 ba_4 ni_7 'di_10 klu_14 rgyal_20 po_26 rgya_29 mtsho_34 chen_40 
+T02D1970:119b-11	po'i phyag rgya / dug thams cad sel ba ste /	po_0 phyag_5 rgya_11 dug_18 thams_22 cad_28 sel_32 ba_36 ste_39 
+T02D1970:119b-12	bdag nyid kha dog dkar po zhi bar bsams pa'i	bdag_0 nyid_5 kha_10 dog_14 dkar_18 po_23 zhi_26 ba_30 bsams_34 ba_40 
+T02D1970:119b-13	snying gar pam gyi yi ge dkar po las 'byung	snying_0 gar_7 pam_11 gyi_15 yi_19 ge_22 dkar_25 po_30 las_33 'byung_37 
+T02D1970:119b-14	ba'i padma dkar po 'dab ma brgyad pa bskyed la	ba_0 padma_5 dkar_11 po_16 'dab_19 ma_24 brgyad_27 ba_34 skyed_37 la_44 
+T02D1970:119b-15	de'i lte bar yi ge ai dkar po'o //	de_0 lte_5 ba_9 yi_13 ge_16 ai_19 dkar_22 po_27 
+T02D1970:119b-16	de las nor bu marka ta dkar po ste /	de_0 las_3 nor_7 bu_11 marka_14 ta_20 dkar_23 po_28 ste_31 
+T02D1970:119b-17	de yongs su gyur pa las ni /	de_0 yongs_3 su_9 gyur_12 ba_17 las_20 ni_24 
+T02D1970:119b-18	sbrul dkar po gnyis phan tshun mjug ma 'brel cing langs pa bsgyings te /	sbrul_0 dkar_6 po_11 gnyis_14 phan_20 tshun_25 mjug_31 ma_36 'brel_39 cing_45 ldang_50 ba_56 sgying_59 te_68 
+T02D1970:119b-19	mig rtsa bsgrims nas gcig la gcig bsdigs pa ltar	mig_0 rtsa_4 sgrim_9 nas_17 gcig_21 la_26 gcig_29 sdig_34 ba_41 ltar_44 
+T02D1970:119b-20	'dug pa'i bar mjug ma'i steng nas rtse mo gsum	'dug_0 ba_5 ba_10 mjug_14 ma_19 steng_24 nas_30 rtse_34 mo_39 gsum_42 
+T02D1970:119b-21	gsum pa'i rdo rje kha gnyis pa sgong skyes nas	gsum_0 ba_5 rdo_10 rje_14 kha_18 gnyis_22 ba_28 sgongs_31 skye_37 nas_43 
+T02D1970:119b-22	'bras 'dra ba gnas pa /	'bras_0 'dra_6 ba_11 gnas_14 ba_19 
+T02D1970:119b-23	gcig la gcig blta zhing lce 'byin pa /	gcig_0 la_5 gcig_8 lta_13 zhing_18 lce_24 'byin_28 ba_34 
+T02D1970:119b-24	gnyis ka'i mgo la yi ge hi lta bu'i nor bu 'od 'bar ba 'dzag par bsams te /	gnyis_0 ka_6 mgo_11 la_15 yi_18 ge_21 hi_24 lta_27 bu_31 nor_36 bu_40 'od_43 'bar_47 ba_52 'dzag_55 ba_61 bsams_65 te_71 
+T02D1970:119b-25	de nas de gnyis kyi mgo bsgrub bya'i mgo'i steng du gnas par bya ste /	de_0 nas_3 de_7 gnyis_10 kyi_16 mgo_20 sgrub_24 byed_31 mgo_37 steng_43 du_49 gnas_52 ba_57 byed_61 ste_65 
+T02D1970:119b-26	nor bu'i yi ge ai dang /	nor_0 bu_4 yi_9 ge_12 ai_15 dang_18 
+T02D1970:119b-27	mchi ma'i bdud rtsis spyi bo nas dbang bskur nas ji skad gsung pa der 'gyur ro //	mchi_0 ma_5 bdud_10 rtsis_15 spyi_21 'bo_26 nas_29 dbang_33 skur_39 nas_45 ji_49 skad_52 gsung_57 ba_63 der_66 'gyur_70 ro_76 
+T02D1970:119b-28	gzhan lag ngar gnyis phan tshun bsnol te /	gzhan_0 lag_6 ngar_10 gnyis_15 phan_21 tshun_26 snol_32 te_38 
+T02D1970:119b-29	dkris la lag pa gnyis kyi mthe bong mthe'u chung rnams lu gu rgyud du sbrel nas /	dkri_0 la_6 lag_9 ba_13 gnyis_16 kyi_22 mthe_26 bong_31 mthe_36 chung_43 rnams_49 lu_55 gu_58 brgyud_61 du_67 sbrel_70 nas_76 
+T02D1970:119b-30	sor mo lhag ma rnams rdo rje'i mtshan nyid las sprul mgo gdengs ka ltar byas te /	sor_0 mo_4 lhag_7 ma_12 rnams_15 rdo_21 rje_25 mtshan_31 nyid_38 las_43 sprul_47 mgo_53 gdeng_57 ka_64 ltar_67 byed_72 te_77 
+T02D1970:119b-31	nas re re tsam du bar dag byas pa 'di /	nas_0 re_4 re_7 tsam_10 du_15 ba_18 'dag_22 byed_26 ba_31 'di_34 
+T02D1970:119b-32	na mo badzra p'a n'i /	na_0 mo_3 badzra_6 p_13 n_17 
+T02D1970:119b-33	aom h'um phat sv'a h'a /	aom_0 h_4 phat_9 sv_14 h_19 
+T02D1970:119b-34	zhes bya bas byin gyis brlabs te /	zhes_0 byed_5 ba_9 byin_13 gyis_18 brlabs_23 te_30 
+T02D1970:119b-35	sbrul can la bstan na thogs pa med par de'i dug 'joms te /	sbrul_0 can_6 la_10 ston_13 na_19 thogs_22 ba_28 med_31 ba_35 de_39 dug_44 'joms_48 te_54 
+T02D1970:119b-36	mi snang ba'i klu dug can rnams kyang ngo //	mi_0 snang_3 ba_9 klu_14 dug_18 can_22 rnams_26 kyang_32 ngo_38 
+T02D1970:119b-37	mngar sna gsum gyi gtor ma yang phyag rgya'i lha la dbul lo //	mngar_0 sna_6 gsum_10 gyi_15 'thor_19 ma_24 yang_27 phyag_32 rgya_38 lha_45 la_49 'bul_52 lo_57 
+T02D1970:119b-38	'di ni bdag gi zhar la bshad pa yin gyi /	'di_0 ni_4 bdag_7 gi_12 zhar_15 la_20 'chad_23 ba_29 yin_32 gyi_36 
+T02D1970:119b-39	gnas skabs kyi bya ba ni ma yin no //	gnas_0 skabs_5 kyi_11 byed_15 ba_19 ni_22 ma_25 yin_28 no_32 
+T02D1970:119b-40	bzhu ba ni zhes bya ba ni chags pa chen	'ju_0 ba_5 ni_8 zhes_11 byed_16 ba_20 ni_23 chags_26 ba_32 chen_35 
+T02D1970:119b-41	pos lus bzhu ba tsam du gdungs par 'gyur ba'i	pos_0 lus_4 'ju_8 ba_13 tsam_16 du_21 gdung_24 ba_31 'gyur_35 ba_41 
+T02D1970:119b-42	dbang du bya'i sbyor ba'o //	dbang_0 du_6 byed_9 sbyor_15 ba_21 
+T02D1970:119b-43	de yang dngos su ni 'dzag pa nyid zhu'o //	de_0 yang_3 dngos_8 su_14 ni_17 'dzag_20 ba_26 nyid_29 'ju_34 
+T02D1970:120a-0	myos @120a * //	myos_0 
+T02D1970:120a-1	pa zhes bya ba ni chags pas sems 'khrugs par gyur pa'o //	ba_0 zhes_3 byed_8 ba_12 ni_15 chags_18 ba_24 sems_28 'khrugs_33 ba_41 gyur_45 ba_50 
+T02D1970:120a-2	de'i snying gar zhes bya ba la sogs pa ni sbyor ba gzhan ston te /	de_0 snying_5 gar_12 zhes_16 byed_21 ba_25 la_28 sogs_31 ba_36 ni_39 sbyor_42 ba_48 gzhan_51 ston_57 te_62 
+T02D1970:120a-3	yi ge bcu pa'i gsang sngags zhes bya ba ni mdog dmar ba'o //	yi_0 ge_3 'chu_6 ba_10 gsang_15 sngags_21 zhes_28 byed_33 ba_37 ni_40 mdog_43 dmar_48 ba_53 
+T02D1970:120a-4	ye shes kyi yi ge'i gzugs zhes bya ba bsgrub bya'i sems yi ge dmar po gyur pa'o ;	ye_0 shes_3 kyi_8 yi_12 ge_15 gzugs_20 zhes_26 byed_31 ba_35 sgrub_38 byed_45 sems_51 yi_56 ge_59 dmar_62 po_67 gyur_70 ba_75 
+T02D1970:120a-5	/ yi ge de la gzhug ste zhes bya ba ni bdag gis spros pa la ste /	yi_2 ge_5 de_8 la_11 'jug_14 ste_20 zhes_24 byed_29 ba_33 ni_36 bdag_39 gis_44 spros_48 ba_54 la_57 ste_60 
+T02D1970:120a-6	de'i phyir gcig tu 'dres par bsam mo zhes gsungs so //	de_0 phyir_5 gcig_11 tu_16 'dre_19 ba_25 bsam_29 mo_34 zhes_37 gsungs_42 so_49 
+T02D1970:120a-7	'di skad du bshad par 'gyur te /	'di_0 skad_4 du_9 'chad_12 ba_18 'gyur_22 te_28 
+T02D1970:120a-8	bdag nyid kha dog dmar po lha nyid du 'ong ba'i rnal 'byor gsal bar bsams la /	bdag_0 nyid_5 kha_10 dog_14 dmar_18 po_23 lha_26 nyid_30 du_35 'ong_38 ba_43 rnal_48 'byor_53 gsal_59 ba_64 bsams_68 la_74 
+T02D1970:120a-9	de'i snying gar yi ge bcug par dmar po zla ba dmar pos bskor bar bsams la /	de_0 snying_5 gar_12 yi_16 ge_19 'jug_22 ba_27 dmar_31 po_36 zla_39 ba_43 dmar_46 pos_51 skor_55 ba_61 bsams_65 la_71 
+T02D1970:120a-10	de nas sngags bskul bar mos pas rdo rje'i bzlas pa brjod pas /	de_0 nas_3 sngags_7 skul_14 ba_20 mos_24 ba_28 rdo_32 rje_36 bzlas_42 ba_48 rjod_51 ba_57 
+T02D1970:120a-11	yi ge de dag snying ga nas byung ste /	yi_0 ge_3 de_6 'dag_9 snying_13 ga_20 nas_23 'byung_27 ste_33 
+T02D1970:120a-12	bsgrub bya'i snying gar nas shing /	sgrub_0 byed_7 snying_13 gar_20 nas_24 shing_28 
+T02D1970:120a-13	de yang de yi sems kyi rang bzhin yi ge bcu dmar po'i mdog tu gyur te /	de_0 yang_3 de_8 yi_11 sems_14 kyi_19 rang_23 bzhin_28 yi_34 ge_37 'chu_40 dmar_44 po_49 mdog_54 tu_59 gyur_62 te_67 
+T02D1970:120a-14	yang de dag 'dres te ;	yang_0 de_5 'dag_8 'dre_12 te_18 
+T02D1970:120a-15	slar thig de dag gi snying gar zla ba dmar po'i yi ge yang dmar po la bstim mo //	slar_0 thig_5 de_10 'dag_13 gi_17 snying_20 gar_27 zla_31 ba_35 dmar_38 po_43 yi_48 ge_51 yang_54 dmar_59 po_64 la_67 stim_70 mo_76 
+T02D1970:120a-16	'di lta bu'i rnal 'byor ni mchog yin pas na /	'di_0 lta_4 bu_8 rnal_13 'byor_18 ni_24 mchog_27 yin_33 ba_37 na_41 
+T02D1970:120a-17	rnal 'byor 'di ni nyi ma bdun na 'khor los sgyur ba yang dbang du 'gyur te /	rnal_0 'byor_5 'di_11 ni_15 nyi_18 ma_22 bdun_25 na_30 'khor_33 los_39 sgyur_43 ba_49 yang_52 dbang_57 du_63 'gyur_66 te_72 
+T02D1970:120a-18	ji srid 'tsho'i bar du dbang du 'gyur ro zhes gsungs so //	ji_0 srid_3 'tsho_8 ba_16 du_20 dbang_23 du_29 'gyur_32 ro_38 zhes_41 gsungs_46 so_53 
+T02D1970:120a-19	las de dag ni bsam gtan ma yin pas 'grub par mi 'gyur bas na /	las_0 de_4 'dag_7 ni_11 bsam_14 gtan_19 ma_24 yin_27 ba_31 'grub_35 ba_41 mi_45 'gyur_48 ba_54 na_58 
+T02D1970:120a-20	sngags pa shin tu mnyam gzhag cing //	sngags_0 ba_7 shin_10 tu_15 mnyam_18 'jog_24 cing_30 
+T02D1970:120a-21	bsam gtan la ni brtan par bya //	bsam_0 gtan_5 la_10 ni_13 brtan_16 ba_22 byed_26 
+T02D1970:120a-22	zhes gsungs so //	zhes_0 gsungs_5 so_12 
+T02D1970:120a-23	rgyud ces bya ba ni rtog pa rdzogs pa gsang ba'o //	brgyud_0 ces_6 byed_10 ba_14 ni_17 rtogs_20 ba_25 rdzogs_28 ba_35 gsang_38 ba_44 
+T02D1970:120a-24	lhag ma rnams ni phyogs 'ga' zhig sbyin pa yang dgag pa'o //	lhag_0 ma_5 rnams_8 ni_14 phyogs_17 'ga'_24 'jig_29 sbyin_34 ba_40 yang_43 'gog_48 ba_53 
+T02D1970:120a-25	sngags kyang bstan par bya'o zhes bya ba ni yi ger bris pa tsam yang ngo //	sngags_0 kyang_7 ston_13 ba_19 byed_23 zhes_29 byed_34 ba_38 ni_41 yi_44 ger_47 'bri_51 ba_56 tsam_59 yang_64 ngo_69 
+T02D1970:120a-26	rnal 'byor ma bzang zhes bya ba ni lhan cig	rnal_0 'byor_5 ma_11 bzang_14 zhes_20 byed_25 ba_29 ni_32 lhan_35 cig_40 
+T02D1970:120a-27	skyes pa'i rnal 'byor ma stong phrag nyi shu rtsa	skye_0 ba_6 rnal_11 'byor_16 ma_22 stong_25 phrag_31 nyi_37 shu_41 rtsa_45 
+T02D1970:120a-28	lnga'o // mkha' 'gro ma zhes bya ba ni zhing srung ba la sogs pa'o //	lnga_0 mkha'_10 'gro_16 ma_21 zhes_24 byed_29 ba_33 ni_36 zhing_39 srung_45 ba_51 la_54 sogs_57 ba_62 
+T02D1970:120a-29	'khor lo zhes bya ba ni dkyil 'khor dang 'khrul 'khor dag 'dir gtso bor gyur pas so //	'khor_0 lo_6 zhes_9 byed_14 ba_18 ni_21 dkyil_24 'khor_30 dang_36 'khrul_41 'khor_48 'dag_54 'dir_58 gtso_63 'bor_68 gyur_72 ba_77 so_81 
+T02D1970:120a-30	rtog pa zhes bya ba ni cho ga'i tshogs so //	rtogs_0 ba_5 zhes_8 byed_13 ba_17 ni_20 cho_23 ga_27 tshogs_32 so_39 
+T02D1970:120a-31	phyogs gcig pa zhes bya ba ni kun las btus pa'i man ngag gi phyogs gcig tu byas pa'o //	phyogs_0 gcig_7 ba_12 zhes_15 byed_20 ba_24 ni_27 kun_30 las_34 'thu_38 ba_43 man_48 ngag_52 gi_57 phyogs_60 gcig_67 tu_72 byed_75 ba_80 
+T02D1970:120a-32	bklags pas 'grub pa zhes bya ba ni skyes bu dam pa rnams kyis so //	bklags_0 ba_7 'grub_11 ba_17 zhes_20 byed_25 ba_29 ni_32 skye_35 bu_41 dam_44 ba_48 rnams_51 kyis_57 so_62 
+T02D1970:120a-33	yan lag gsum pa mngon par brjod pa'o //	yan_0 lag_4 gsum_8 ba_13 mngon_16 ba_22 rjod_26 ba_32 
+T02D1970:120b-0	@120b bla ma mi bsten man ngag gtam bral bar //	bla_6 ma_10 mi_13 sten_16 man_22 ngag_26 'dam_31 'bral_36 ba_41 
+T02D1970:120b-1	mi mkhas dag ni nges par mchog yin zhes //	mi_0 mkhas_3 'dag_9 ni_13 nges_16 ba_21 mchog_25 yin_31 zhes_35 
+T02D1970:120b-2	rgyud don log par 'chad cing byis pa bslu //	brgyud_0 don_6 log_10 ba_14 'chad_18 cing_24 byis_29 ba_34 bslu_37 
+T02D1970:120b-3	de dag bslu ba shes byed 'di byas slob ma'i phyir //	de_0 'dag_3 bslu_7 ba_12 shes_15 byed_20 'di_25 byed_29 slob_34 ma_39 phyir_44 
+T02D1970:120b-4	sbyor ba rgya chen ji skad bla mas smras pa bzhin //	sbyor_0 ba_6 rgya_9 chen_14 ji_19 skad_22 bla_27 mas_31 smras_35 ba_41 bzhin_44 
+T02D1970:120b-5	'on kyang dge 'dis 'gro ba thub pa'i dbang por gyur //	'on_0 kyang_4 dge_10 'dis_14 'gro_19 ba_24 thub_27 ba_32 dbang_37 por_43 gyur_47 
+T02D1970:120b-6	dpal rdo rje 'jigs byed kyi rgyud kyi dka' 'grel //	dpal_0 rdo_5 rje_9 'jigs_13 byed_19 kyi_24 brgyud_28 kyi_34 dka'_38 'grel_43 
+T02D1970:120b-7	rdo rje slob dpon mi bskyod pas mdzad pa rdzogs so /	rdo_0 rje_4 slob_8 dpon_13 mi_18 skyod_21 ba_28 mdzad_32 ba_38 rdzogs_41 so_48 
+T02D1970:120b-9	// / rgya gar gyi mkhan po bi n'a ya tsandra dang /	rgya_5 gar_10 gyi_14 mkhan_18 po_24 bi_27 n_30 ya_34 tsandra_37 dang_45 
+T02D1970:120b-10	lo ts'a ba dge slong chos kyi shes rab kyis bsgyur cing zhus te gtan la phab pa'o//	lo_0 ts_3 ba_8 dge_11 slong_15 chos_21 kyi_26 shes_30 rab_35 kyis_39 sgyur_44 cing_51 zhus_56 te_61 gtan_64 la_69 'bebs_72 
