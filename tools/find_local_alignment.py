@@ -11,19 +11,18 @@ from gensim.models import KeyedVectors
 from collections import OrderedDict
 
 from Bio import pairwise2
-import csv
 
 #volume_path = sys.argv[1]
 #volume_path = "/home/basti/data/buddhanexus-pedurma/wylie/I1PD96860.txt.w.tsv"
 volume_path = "../pedurma-volumes/"
 query_path = "../acip/"
+
 vectorlength = 200
 gapsize = 200 
 
 
 def read_file(path):
-    print("NOW READING",path)
-    df = pd.read_csv(path,sep="\t",names=["segmentnr","orig","stemmed"],dtype="str", on_bad_lines="skip", quoting=csv.QUOTE_NONE)
+    df = pd.read_csv(path,sep="\t",names=["segmentnr","orig","stemmed"],dtype="str", on_bad_lines="skip")
     df['stemmed'] = df['stemmed'].apply(lambda line: line.split(" "))
     df = df.explode('stemmed')
     df['stemmed'] = df['stemmed'].apply(lambda stem: stem.split("_")[0])
@@ -35,6 +34,7 @@ def read_files(path):
     all_stems = []
     for file in os.listdir(path):
         filename = os.fsdecode(file)
+        print("NOW LOADING", filename)
         current_volume_df, current_stems = read_file(path+filename)
         all_volumes_df.append(current_volume_df)
         all_stems.extend(current_stems)
@@ -139,8 +139,6 @@ def process_query_file(query_path):
 
 
 index = create_index(volume_stems)
-
-
 
 for file in tqdm(os.listdir(query_path)):
     filename = os.fsdecode(file)
