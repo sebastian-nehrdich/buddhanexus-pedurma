@@ -22,7 +22,7 @@ gapsize = 200
 
 
 def read_file(path):
-    df = pd.read_csv(path,sep="\t",names=["segmentnr","orig","stemmed"],dtype="str", on_bad_lines="skip")
+    df = pd.read_csv(path,sep="\t",names=["segmentnr","orig","stemmed"],dtype="str", on_bad_lines="skip", engine="python")
     df['stemmed'] = df['stemmed'].apply(lambda line: line.split(" "))
     df = df.explode('stemmed')
     df['stemmed'] = df['stemmed'].apply(lambda stem: stem.split("_")[0])
